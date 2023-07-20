@@ -97,3 +97,9 @@ export const getNeedsWatering = async (req, res) => {
 
   res.json(needsWatering);
 };
+
+export const getOrigin = async (req, res) => {
+  let origin = await Plant.find({ origin: req.params.origin.charAt(0).toUpperCase() + req.params.origin.slice(1)});
+
+  res.json(origin);
+}
