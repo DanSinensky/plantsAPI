@@ -36,6 +36,8 @@ export const updatePlant = async (req, res) => {
   const { id } = req.params;
   const plant = await Plant.findByIdAndUpdate(id, req.body);
   res.status(201).json(plant);
+
+  throw new Error("Plant not found");
 };
 
 export const deletePlant = async (req, res) => {
