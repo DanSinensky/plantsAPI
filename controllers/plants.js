@@ -38,10 +38,10 @@ export const updatePlant = async (req, res) => {
   res.status(201).json(plant);
 };
 
-export const deleteHouse = async (req, res) => {
+export const deletePlant = async (req, res) => {
   try {
     const { id } = req.params;
-    const deleted = await House.findByIdAndDelete(id);
+    const deleted = await Plant.findByIdAndDelete(id);
 
     if (deleted) {
       return res.status(200).send("Plant Deleted!");
