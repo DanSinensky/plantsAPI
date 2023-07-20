@@ -13,7 +13,7 @@ export const getPlants = async (req, res) => {
 export const getPlant = async (req, res) => {
   try {
     const { id } = req.params;
-    const plant = await Plant.findOne({ id: id });
+    const plant = await Plant.findById(id);
 
     if (plant) {
       return res.json(plant);

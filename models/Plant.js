@@ -2,7 +2,6 @@ import mongoose from "mongoose";
 const Schema = mongoose.Schema;
 
 let Plant = new Schema({
-  "id": { type: Number },
   "common_name": { type: String },
   "scientific_name": [
     { type: String }
