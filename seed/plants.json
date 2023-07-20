@@ -714,5 +714,1264 @@
     "small_url": "https://perenual.com/storage/species_image/30_acer_palmatum_ao_shime_no_uchi/small/Acer_palmatum_Ao_shime_no_uchi_3zz.jpg",
     "thumbnail": "https://perenual.com/storage/species_image/30_acer_palmatum_ao_shime_no_uchi/thumbnail/Acer_palmatum_Ao_shime_no_uchi_3zz.jpg"
     }
-    }
+    },
+    {
+      "common_name": "Aoyagi Japanese Maple*",
+      "scientific_name": [
+      "Acer palmatum 'Aoyagi'"
+      ],
+      "other_name": [
+      "Green Coral Japanese Maple"
+      ],
+      "cycle": "Perennial",
+      "watering": "Frequent",
+      "sunlight": [
+      "full sun",
+      "part shade"
+      ],
+      "default_image": null
+      },
+      {
+      "common_name": "Arakawa Cork Bark Japanese Maple",
+      "scientific_name": [
+      "Acer palmatum 'Arakawa'"
+      ],
+      "other_name": [
+      "Rough-Bark Japanese Maple",
+      "Arakawa Ukon"
+      ],
+      "cycle": "Perennial",
+      "watering": "Average",
+      "sunlight": [
+      "Full sun",
+      "part shade"
+      ],
+      "default_image": null
+      },
+      {
+      "common_name": "Asahi Zuru Japanese Maple",
+      "scientific_name": [
+      "Acer palmatum 'Asahi Zuru'"
+      ],
+      "other_name": [
+      "Rising Sun",
+      "Dawn Swan"
+      ],
+      "cycle": "Perennial",
+      "watering": "Average",
+      "sunlight": [
+      "full sun",
+      "part shade"
+      ],
+      "default_image": null
+      },
+      {
+      "common_name": "Ribbon-leaf Japanese Maple*",
+      "scientific_name": [
+      "Acer palmatum 'Atrolineare'"
+      ],
+      "other_name": [
+      "Red Strap-Leaf Japanese Maple"
+      ],
+      "cycle": "Perennial",
+      "watering": "Minimum",
+      "sunlight": [
+      "full sun",
+      "part shade"
+      ],
+      "default_image": {
+      "license": 45,
+      "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+      "original_url": "https://perenual.com/storage/species_image/34_acer_palmatum_atrolineare/og/2560px-Acer_Palmatum_27Red_Pygmy27.jpg",
+      "regular_url": "https://perenual.com/storage/species_image/34_acer_palmatum_atrolineare/regular/2560px-Acer_Palmatum_27Red_Pygmy27.jpg",
+      "medium_url": "https://perenual.com/storage/species_image/34_acer_palmatum_atrolineare/medium/2560px-Acer_Palmatum_27Red_Pygmy27.jpg",
+      "small_url": "https://perenual.com/storage/species_image/34_acer_palmatum_atrolineare/small/2560px-Acer_Palmatum_27Red_Pygmy27.jpg",
+      "thumbnail": "https://perenual.com/storage/species_image/34_acer_palmatum_atrolineare/thumbnail/2560px-Acer_Palmatum_27Red_Pygmy27.jpg"
+      }
+      },
+      {
+      "common_name": "Purple-Leaf Japanese Maple",
+      "scientific_name": [
+      "Acer palmatum 'Atropurpureum'"
+      ],
+      "other_name": [],
+      "cycle": "Perennial",
+      "watering": "Average",
+      "sunlight": [
+      "full sun",
+      "part shade"
+      ],
+      "default_image": {
+      "license": 4,
+      "license_name": "Attribution License",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "original_url": "https://perenual.com/storage/species_image/35_acer_palmatum_atropurpureum/og/5656874577_617188e307_b.jpg",
+      "regular_url": "https://perenual.com/storage/species_image/35_acer_palmatum_atropurpureum/regular/5656874577_617188e307_b.jpg",
+      "medium_url": "https://perenual.com/storage/species_image/35_acer_palmatum_atropurpureum/medium/5656874577_617188e307_b.jpg",
+      "small_url": "https://perenual.com/storage/species_image/35_acer_palmatum_atropurpureum/small/5656874577_617188e307_b.jpg",
+      "thumbnail": "https://perenual.com/storage/species_image/35_acer_palmatum_atropurpureum/thumbnail/5656874577_617188e307_b.jpg"
+      }
+      },
+      {
+      "common_name": "Aureum Japanese Maple*",
+      "scientific_name": [
+      "Acer palmatum 'Aureum'"
+      ],
+      "other_name": [],
+      "cycle": "Perennial",
+      "watering": "Average",
+      "sunlight": [
+      "part shade",
+      "part sun/part shade"
+      ],
+      "default_image": {
+      "license": 45,
+      "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+      "original_url": "https://perenual.com/storage/species_image/36_acer_palmatum_aureum/og/2560px-Acer_shirasawanum_22aureum22.jpg",
+      "regular_url": "https://perenual.com/storage/species_image/36_acer_palmatum_aureum/regular/2560px-Acer_shirasawanum_22aureum22.jpg",
+      "medium_url": "https://perenual.com/storage/species_image/36_acer_palmatum_aureum/medium/2560px-Acer_shirasawanum_22aureum22.jpg",
+      "small_url": "https://perenual.com/storage/species_image/36_acer_palmatum_aureum/small/2560px-Acer_shirasawanum_22aureum22.jpg",
+      "thumbnail": "https://perenual.com/storage/species_image/36_acer_palmatum_aureum/thumbnail/2560px-Acer_shirasawanum_22aureum22.jpg"
+      }
+      },
+      {
+      "common_name": "Autumn Fire Japanese Maple",
+      "scientific_name": [
+      "Acer palmatum 'Autumn Fire'"
+      ],
+      "other_name": [
+      "Herbstfeuer"
+      ],
+      "cycle": "Perennial",
+      "watering": "Average",
+      "sunlight": [
+      "full sun",
+      "part shade"
+      ],
+      "default_image": {
+      "license": 45,
+      "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+      "original_url": "https://perenual.com/storage/species_image/37_acer_palmatum_autumn_fire/og/2560px-Acer_palmatum_fall_foliage_01.jpg",
+      "regular_url": "https://perenual.com/storage/species_image/37_acer_palmatum_autumn_fire/regular/2560px-Acer_palmatum_fall_foliage_01.jpg",
+      "medium_url": "https://perenual.com/storage/species_image/37_acer_palmatum_autumn_fire/medium/2560px-Acer_palmatum_fall_foliage_01.jpg",
+      "small_url": "https://perenual.com/storage/species_image/37_acer_palmatum_autumn_fire/small/2560px-Acer_palmatum_fall_foliage_01.jpg",
+      "thumbnail": "https://perenual.com/storage/species_image/37_acer_palmatum_autumn_fire/thumbnail/2560px-Acer_palmatum_fall_foliage_01.jpg"
+      }
+      },
+      {
+      "common_name": "Azuma Murasaki Japanese Maple",
+      "scientific_name": [
+      "Acer palmatum 'Azuma Murasaki'"
+      ],
+      "other_name": [],
+      "cycle": "Perennial",
+      "watering": "Average",
+      "sunlight": [
+      "full sun",
+      "part shade"
+      ],
+      "default_image": null
+      },
+      {
+      "common_name": "Beni Kawa Coral Bark Japanese Maple*",
+      "scientific_name": [
+      "Acer palmatum 'Beni Kawa'"
+      ],
+      "other_name": [],
+      "cycle": "Perennial",
+      "watering": "Frequent",
+      "sunlight": [
+      "full sun",
+      "part shade"
+      ],
+      "default_image": {
+      "license": 4,
+      "license_name": "Attribution License",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "original_url": "https://perenual.com/storage/species_image/39_acer_palmatum_beni_kawa/og/5695802528_935d72efaa_b.jpg",
+      "regular_url": "https://perenual.com/storage/species_image/39_acer_palmatum_beni_kawa/regular/5695802528_935d72efaa_b.jpg",
+      "medium_url": "https://perenual.com/storage/species_image/39_acer_palmatum_beni_kawa/medium/5695802528_935d72efaa_b.jpg",
+      "small_url": "https://perenual.com/storage/species_image/39_acer_palmatum_beni_kawa/small/5695802528_935d72efaa_b.jpg",
+      "thumbnail": "https://perenual.com/storage/species_image/39_acer_palmatum_beni_kawa/thumbnail/5695802528_935d72efaa_b.jpg"
+      }
+      },
+      {
+      "common_name": "Beni Otake Japanese Maple",
+      "scientific_name": [
+      "Acer palmatum 'Beni Otake'"
+      ],
+      "other_name": [
+      "Big Red Bamboo"
+      ],
+      "cycle": "Perennial",
+      "watering": "Average",
+      "sunlight": [
+      "full sun",
+      "part shade"
+      ],
+      "default_image": {
+      "license": 45,
+      "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+      "original_url": "https://perenual.com/storage/species_image/40_acer_palmatum_beni_otake/og/Acer_palmatum_27Oshio_beni27_-_JPG2.jpg",
+      "regular_url": "https://perenual.com/storage/species_image/40_acer_palmatum_beni_otake/regular/Acer_palmatum_27Oshio_beni27_-_JPG2.jpg",
+      "medium_url": "https://perenual.com/storage/species_image/40_acer_palmatum_beni_otake/medium/Acer_palmatum_27Oshio_beni27_-_JPG2.jpg",
+      "small_url": "https://perenual.com/storage/species_image/40_acer_palmatum_beni_otake/small/Acer_palmatum_27Oshio_beni27_-_JPG2.jpg",
+      "thumbnail": "https://perenual.com/storage/species_image/40_acer_palmatum_beni_otake/thumbnail/Acer_palmatum_27Oshio_beni27_-_JPG2.jpg"
+      }
+      },
+      {
+      "common_name": "Beni Schichihenge Japanese Maple",
+      "scientific_name": [
+      "Acer palmatum 'Beni Schichihenge'"
+      ],
+      "other_name": [],
+      "cycle": "Perennial",
+      "watering": "Average",
+      "sunlight": [
+      "full sun",
+      "part shade"
+      ],
+      "default_image": null
+      },
+      {
+      "common_name": "Beni Tsukasa Japanese Maple*",
+      "scientific_name": [
+      "Acer palmatum 'Beni Tsukasa'"
+      ],
+      "other_name": [
+      "Calico Cloth"
+      ],
+      "cycle": "Perennial",
+      "watering": "Average",
+      "sunlight": [
+      "full sun",
+      "part shade"
+      ],
+      "default_image": {
+      "license": 451,
+      "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "original_url": "https://perenual.com/storage/species_image/42_acer_palmatum_beni_tsukasa/og/pexels-photo-11870811.jpg",
+      "regular_url": "https://perenual.com/storage/species_image/42_acer_palmatum_beni_tsukasa/regular/pexels-photo-11870811.jpg",
+      "medium_url": "https://perenual.com/storage/species_image/42_acer_palmatum_beni_tsukasa/medium/pexels-photo-11870811.jpg",
+      "small_url": "https://perenual.com/storage/species_image/42_acer_palmatum_beni_tsukasa/small/pexels-photo-11870811.jpg",
+      "thumbnail": "https://perenual.com/storage/species_image/42_acer_palmatum_beni_tsukasa/thumbnail/pexels-photo-11870811.jpg"
+      }
+      },
+      {
+      "common_name": "Bloodgood Japanese Maple",
+      "scientific_name": [
+      "Acer palmatum 'Bloodgood'"
+      ],
+      "other_name": [],
+      "cycle": "Perennial",
+      "watering": "Average",
+      "sunlight": [
+      "full sun",
+      "part sun/part shade"
+      ],
+      "default_image": {
+      "license": 5,
+      "license_name": "Attribution-ShareAlike License",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "original_url": "https://perenual.com/storage/species_image/43_acer_palmatum_bloodgood/og/47923603032_5a96106ac6_b.jpg",
+      "regular_url": "https://perenual.com/storage/species_image/43_acer_palmatum_bloodgood/regular/47923603032_5a96106ac6_b.jpg",
+      "medium_url": "https://perenual.com/storage/species_image/43_acer_palmatum_bloodgood/medium/47923603032_5a96106ac6_b.jpg",
+      "small_url": "https://perenual.com/storage/species_image/43_acer_palmatum_bloodgood/small/47923603032_5a96106ac6_b.jpg",
+      "thumbnail": "https://perenual.com/storage/species_image/43_acer_palmatum_bloodgood/thumbnail/47923603032_5a96106ac6_b.jpg"
+      }
+      },
+      {
+      "common_name": "Bonfire Japanese Maple",
+      "scientific_name": [
+      "Acer palmatum 'Bonfire'"
+      ],
+      "other_name": [
+      "Seigai"
+      ],
+      "cycle": "Perennial",
+      "watering": "Average",
+      "sunlight": [
+      "full sun",
+      "part shade"
+      ],
+      "default_image": {
+      "license": 451,
+      "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "original_url": "https://perenual.com/storage/species_image/44_acer_palmatum_bonfire/og/sk3776-image-kwvuoab1.jpg",
+      "regular_url": "https://perenual.com/storage/species_image/44_acer_palmatum_bonfire/regular/sk3776-image-kwvuoab1.jpg",
+      "medium_url": "https://perenual.com/storage/species_image/44_acer_palmatum_bonfire/medium/sk3776-image-kwvuoab1.jpg",
+      "small_url": "https://perenual.com/storage/species_image/44_acer_palmatum_bonfire/small/sk3776-image-kwvuoab1.jpg",
+      "thumbnail": "https://perenual.com/storage/species_image/44_acer_palmatum_bonfire/thumbnail/sk3776-image-kwvuoab1.jpg"
+      }
+      },
+      {
+      "common_name": "Brandt's Dwarf Japanese Maple",
+      "scientific_name": [
+      "Acer palmatum 'Brandt's Dwarf'"
+      ],
+      "other_name": [],
+      "cycle": "Perennial",
+      "watering": "Average",
+      "sunlight": [
+      "full sun",
+      "part shade"
+      ],
+      "default_image": {
+      "license": 45,
+      "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+      "original_url": "https://perenual.com/storage/species_image/45_acer_palmatum_brandts_dwarf/og/Acer_palmatum_BotGartenMuenster_Faecherahorn_6691.jpg",
+      "regular_url": "https://perenual.com/storage/species_image/45_acer_palmatum_brandts_dwarf/regular/Acer_palmatum_BotGartenMuenster_Faecherahorn_6691.jpg",
+      "medium_url": "https://perenual.com/storage/species_image/45_acer_palmatum_brandts_dwarf/medium/Acer_palmatum_BotGartenMuenster_Faecherahorn_6691.jpg",
+      "small_url": "https://perenual.com/storage/species_image/45_acer_palmatum_brandts_dwarf/small/Acer_palmatum_BotGartenMuenster_Faecherahorn_6691.jpg",
+      "thumbnail": "https://perenual.com/storage/species_image/45_acer_palmatum_brandts_dwarf/thumbnail/Acer_palmatum_BotGartenMuenster_Faecherahorn_6691.jpg"
+      }
+      },
+      {
+      "common_name": "Burgundy Lace Japanese Maple",
+      "scientific_name": [
+      "Acer palmatum 'Burgundy Lace'"
+      ],
+      "other_name": [],
+      "cycle": "Perennial",
+      "watering": "Average",
+      "sunlight": [
+      "full sun",
+      "part shade"
+      ],
+      "default_image": {
+      "license": 5,
+      "license_name": "Attribution-ShareAlike License",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "original_url": "https://perenual.com/storage/species_image/46_acer_palmatum_burgundy_lace/og/50082938346_1040fdd690_b.jpg",
+      "regular_url": "https://perenual.com/storage/species_image/46_acer_palmatum_burgundy_lace/regular/50082938346_1040fdd690_b.jpg",
+      "medium_url": "https://perenual.com/storage/species_image/46_acer_palmatum_burgundy_lace/medium/50082938346_1040fdd690_b.jpg",
+      "small_url": "https://perenual.com/storage/species_image/46_acer_palmatum_burgundy_lace/small/50082938346_1040fdd690_b.jpg",
+      "thumbnail": "https://perenual.com/storage/species_image/46_acer_palmatum_burgundy_lace/thumbnail/50082938346_1040fdd690_b.jpg"
+      }
+      },
+      {
+      "common_name": "Butterfly Variegated Japanese Maple",
+      "scientific_name": [
+      "Acer palmatum 'Butterfly'"
+      ],
+      "other_name": [],
+      "cycle": "Perennial",
+      "watering": "Average",
+      "sunlight": [
+      "Full sun",
+      "part shade"
+      ],
+      "default_image": {
+      "license": 4,
+      "license_name": "Attribution License",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "original_url": "https://perenual.com/storage/species_image/47_acer_palmatum_butterfly/og/20251027248_dc9cfd6f65_b.jpg",
+      "regular_url": "https://perenual.com/storage/species_image/47_acer_palmatum_butterfly/regular/20251027248_dc9cfd6f65_b.jpg",
+      "medium_url": "https://perenual.com/storage/species_image/47_acer_palmatum_butterfly/medium/20251027248_dc9cfd6f65_b.jpg",
+      "small_url": "https://perenual.com/storage/species_image/47_acer_palmatum_butterfly/small/20251027248_dc9cfd6f65_b.jpg",
+      "thumbnail": "https://perenual.com/storage/species_image/47_acer_palmatum_butterfly/thumbnail/20251027248_dc9cfd6f65_b.jpg"
+      }
+      },
+      {
+      "common_name": "Chantilly Lace Japanese Maple",
+      "scientific_name": [
+      "Acer palmatum 'Chantilly Lace'"
+      ],
+      "other_name": [
+      "Threadleaf Japanese Maple"
+      ],
+      "cycle": "Perennial",
+      "watering": "Frequent",
+      "sunlight": [
+      "full sun",
+      "part shade"
+      ],
+      "default_image": null
+      },
+      {
+      "common_name": "Chishio Japanese Maple",
+      "scientific_name": [
+      "Acer palmatum 'Chishio'"
+      ],
+      "other_name": [],
+      "cycle": "Perennial",
+      "watering": "Average",
+      "sunlight": [
+      "full sun",
+      "part shade"
+      ],
+      "default_image": {
+      "license": 45,
+      "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+      "original_url": "https://perenual.com/storage/species_image/49_acer_palmatum_chishio/og/Acer_palmatum_Atropurpureum_JPG1fuA.jpg",
+      "regular_url": "https://perenual.com/storage/species_image/49_acer_palmatum_chishio/regular/Acer_palmatum_Atropurpureum_JPG1fuA.jpg",
+      "medium_url": "https://perenual.com/storage/species_image/49_acer_palmatum_chishio/medium/Acer_palmatum_Atropurpureum_JPG1fuA.jpg",
+      "small_url": "https://perenual.com/storage/species_image/49_acer_palmatum_chishio/small/Acer_palmatum_Atropurpureum_JPG1fuA.jpg",
+      "thumbnail": "https://perenual.com/storage/species_image/49_acer_palmatum_chishio/thumbnail/Acer_palmatum_Atropurpureum_JPG1fuA.jpg"
+      }
+      },
+      {
+      "common_name": "Chitose Yama Japanese Maple",
+      "scientific_name": [
+      "Acer palmatum 'Chitose Yama'"
+      ],
+      "other_name": [
+      "Chitoseyama"
+      ],
+      "cycle": "Perennial",
+      "watering": "Frequent",
+      "sunlight": [
+      "full sun",
+      "part shade"
+      ],
+      "default_image": {
+      "license": 451,
+      "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "original_url": "https://perenual.com/storage/species_image/50_acer_palmatum_chitose_yama/og/pexels-photo-4977537.jpg",
+      "regular_url": "https://perenual.com/storage/species_image/50_acer_palmatum_chitose_yama/regular/pexels-photo-4977537.jpg",
+      "medium_url": "https://perenual.com/storage/species_image/50_acer_palmatum_chitose_yama/medium/pexels-photo-4977537.jpg",
+      "small_url": "https://perenual.com/storage/species_image/50_acer_palmatum_chitose_yama/small/pexels-photo-4977537.jpg",
+      "thumbnail": "https://perenual.com/storage/species_image/50_acer_palmatum_chitose_yama/thumbnail/pexels-photo-4977537.jpg"
+      }
+      },
+      {
+      "common_name": "Coonara Pygmy Japanese Maple",
+      "scientific_name": [
+      "Acer palmatum 'Coonara Pygmy'"
+      ],
+      "other_name": [],
+      "cycle": "Perennial",
+      "watering": "Average",
+      "sunlight": [
+      "full sun",
+      "part shade"
+      ],
+      "default_image": {
+      "license": 451,
+      "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "original_url": "https://perenual.com/storage/species_image/51_acer_palmatum_coonara_pygmy/og/japan-maple-maple-leaf-red-leaf-nature.jpg",
+      "regular_url": "https://perenual.com/storage/species_image/51_acer_palmatum_coonara_pygmy/regular/japan-maple-maple-leaf-red-leaf-nature.jpg",
+      "medium_url": "https://perenual.com/storage/species_image/51_acer_palmatum_coonara_pygmy/medium/japan-maple-maple-leaf-red-leaf-nature.jpg",
+      "small_url": "https://perenual.com/storage/species_image/51_acer_palmatum_coonara_pygmy/small/japan-maple-maple-leaf-red-leaf-nature.jpg",
+      "thumbnail": "https://perenual.com/storage/species_image/51_acer_palmatum_coonara_pygmy/thumbnail/japan-maple-maple-leaf-red-leaf-nature.jpg"
+      }
+      },
+      {
+      "common_name": "Crimson Prince Japanese Maple*",
+      "scientific_name": [
+      "Acer palmatum 'Crimson Prince'"
+      ],
+      "other_name": [],
+      "cycle": "Perennial",
+      "watering": "Average",
+      "sunlight": [
+      "full sun",
+      "part shade"
+      ],
+      "default_image": {
+      "license": 451,
+      "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "original_url": "https://perenual.com/storage/species_image/52_acer_palmatum_crimson_prince/og/1-1274349109Jjby.jpg",
+      "regular_url": "https://perenual.com/storage/species_image/52_acer_palmatum_crimson_prince/regular/1-1274349109Jjby.jpg",
+      "medium_url": "https://perenual.com/storage/species_image/52_acer_palmatum_crimson_prince/medium/1-1274349109Jjby.jpg",
+      "small_url": "https://perenual.com/storage/species_image/52_acer_palmatum_crimson_prince/small/1-1274349109Jjby.jpg",
+      "thumbnail": "https://perenual.com/storage/species_image/52_acer_palmatum_crimson_prince/thumbnail/1-1274349109Jjby.jpg"
+      }
+      },
+      {
+      "common_name": "Ever Red Lace-Leaf Japanese Maple*",
+      "scientific_name": [
+      "Acer palmatum 'Ever Red'"
+      ],
+      "other_name": [],
+      "cycle": "Perennial",
+      "watering": "Average",
+      "sunlight": [
+      "full sun"
+      ],
+      "default_image": {
+      "license": 5,
+      "license_name": "Attribution-ShareAlike License",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "original_url": "https://perenual.com/storage/species_image/53_acer_palmatum_ever_red/og/9651313679_caf5a0d447_b.jpg",
+      "regular_url": "https://perenual.com/storage/species_image/53_acer_palmatum_ever_red/regular/9651313679_caf5a0d447_b.jpg",
+      "medium_url": "https://perenual.com/storage/species_image/53_acer_palmatum_ever_red/medium/9651313679_caf5a0d447_b.jpg",
+      "small_url": "https://perenual.com/storage/species_image/53_acer_palmatum_ever_red/small/9651313679_caf5a0d447_b.jpg",
+      "thumbnail": "https://perenual.com/storage/species_image/53_acer_palmatum_ever_red/thumbnail/9651313679_caf5a0d447_b.jpg"
+      }
+      },
+      {
+      "common_name": "Glowing Embers Japanese Maple*",
+      "scientific_name": [
+      "Acer palmatum 'Glowing Embers'"
+      ],
+      "other_name": [],
+      "cycle": "Perennial",
+      "watering": "Average",
+      "sunlight": [
+      "full sun",
+      "part shade"
+      ],
+      "default_image": {
+      "license": 45,
+      "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+      "original_url": "https://perenual.com/storage/species_image/54_acer_palmatum_glowing_embers/og/2016-11-18_12_20_19_Callery_Pear_displaying_autumn_foliage_along_Franklin_Farm_Road_between_Tranquility_Lane_and_Old_Dairy_Road_in_the_Franklin_Farm_section_of_Oak_Hill2C_Fairfax_County2C_Virginia.jpg",
+      "regular_url": "https://perenual.com/storage/species_image/54_acer_palmatum_glowing_embers/regular/2016-11-18_12_20_19_Callery_Pear_displaying_autumn_foliage_along_Franklin_Farm_Road_between_Tranquility_Lane_and_Old_Dairy_Road_in_the_Franklin_Farm_section_of_Oak_Hill2C_Fairfax_County2C_Virginia.jpg",
+      "medium_url": "https://perenual.com/storage/species_image/54_acer_palmatum_glowing_embers/medium/2016-11-18_12_20_19_Callery_Pear_displaying_autumn_foliage_along_Franklin_Farm_Road_between_Tranquility_Lane_and_Old_Dairy_Road_in_the_Franklin_Farm_section_of_Oak_Hill2C_Fairfax_County2C_Virginia.jpg",
+      "small_url": "https://perenual.com/storage/species_image/54_acer_palmatum_glowing_embers/small/2016-11-18_12_20_19_Callery_Pear_displaying_autumn_foliage_along_Franklin_Farm_Road_between_Tranquility_Lane_and_Old_Dairy_Road_in_the_Franklin_Farm_section_of_Oak_Hill2C_Fairfax_County2C_Virginia.jpg",
+      "thumbnail": "https://perenual.com/storage/species_image/54_acer_palmatum_glowing_embers/thumbnail/2016-11-18_12_20_19_Callery_Pear_displaying_autumn_foliage_along_Franklin_Farm_Road_between_Tranquility_Lane_and_Old_Dairy_Road_in_the_Franklin_Farm_section_of_Oak_Hill2C_Fairfax_County2C_Virginia.jpg"
+      }
+      },
+      {
+      "common_name": "Grandma Ghost Japanese Maple*",
+      "scientific_name": [
+      "Acer palmatum 'Grandma Ghost'"
+      ],
+      "other_name": [
+      "Grandma's Ghost Japanese Maple"
+      ],
+      "cycle": "Perennial",
+      "watering": "Average",
+      "sunlight": [
+      "full sun",
+      "part shade"
+      ],
+      "default_image": {
+      "license": 4,
+      "license_name": "Attribution License",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "original_url": "https://perenual.com/storage/species_image/55_acer_palmatum_grandma_ghost/og/51480401507_4b9def5883_b.jpg",
+      "regular_url": "https://perenual.com/storage/species_image/55_acer_palmatum_grandma_ghost/regular/51480401507_4b9def5883_b.jpg",
+      "medium_url": "https://perenual.com/storage/species_image/55_acer_palmatum_grandma_ghost/medium/51480401507_4b9def5883_b.jpg",
+      "small_url": "https://perenual.com/storage/species_image/55_acer_palmatum_grandma_ghost/small/51480401507_4b9def5883_b.jpg",
+      "thumbnail": "https://perenual.com/storage/species_image/55_acer_palmatum_grandma_ghost/thumbnail/51480401507_4b9def5883_b.jpg"
+      }
+      },
+      {
+      "common_name": "Green Hornet Cutleaf Japanese Maple*",
+      "scientific_name": [
+      "Acer palmatum 'Green Hornet'"
+      ],
+      "other_name": [],
+      "cycle": "Perennial",
+      "watering": "Average",
+      "sunlight": [
+      "full sun",
+      "part shade"
+      ],
+      "default_image": null
+      },
+      {
+      "common_name": "Green Mist Japanese Maple*",
+      "scientific_name": [
+      "Acer palmatum 'Green Mist'"
+      ],
+      "other_name": [],
+      "cycle": "Perennial",
+      "watering": "Average",
+      "sunlight": [
+      "full sun",
+      "part shade"
+      ],
+      "default_image": {
+      "license": 45,
+      "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+      "original_url": "https://perenual.com/storage/species_image/57_acer_palmatum_green_mist/og/Acer_palmatum_var._dissectum_Green_Mist_0zz.jpg",
+      "regular_url": "https://perenual.com/storage/species_image/57_acer_palmatum_green_mist/regular/Acer_palmatum_var._dissectum_Green_Mist_0zz.jpg",
+      "medium_url": "https://perenual.com/storage/species_image/57_acer_palmatum_green_mist/medium/Acer_palmatum_var._dissectum_Green_Mist_0zz.jpg",
+      "small_url": "https://perenual.com/storage/species_image/57_acer_palmatum_green_mist/small/Acer_palmatum_var._dissectum_Green_Mist_0zz.jpg",
+      "thumbnail": "https://perenual.com/storage/species_image/57_acer_palmatum_green_mist/thumbnail/Acer_palmatum_var._dissectum_Green_Mist_0zz.jpg"
+      }
+      },
+      {
+      "common_name": "Shirazz Japanese Maple",
+      "scientific_name": [
+      "Acer palmatum 'Gwen's Rose Delight'"
+      ],
+      "other_name": [],
+      "cycle": "Perennial",
+      "watering": "Average",
+      "sunlight": [
+      "full sun",
+      "part shade"
+      ],
+      "default_image": null
+      },
+      {
+      "common_name": "Hessei Japanese Maple",
+      "scientific_name": [
+      "Acer palmatum 'Hessei'"
+      ],
+      "other_name": [],
+      "cycle": "Perennial",
+      "watering": "Average",
+      "sunlight": [
+      "part shade",
+      "part sun/part shade"
+      ],
+      "default_image": {
+      "license": 45,
+      "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+      "original_url": "https://perenual.com/storage/species_image/59_acer_palmatum_hessei/og/Acer_amoenum_var_matsumurae1.jpg",
+      "regular_url": "https://perenual.com/storage/species_image/59_acer_palmatum_hessei/regular/Acer_amoenum_var_matsumurae1.jpg",
+      "medium_url": "https://perenual.com/storage/species_image/59_acer_palmatum_hessei/medium/Acer_amoenum_var_matsumurae1.jpg",
+      "small_url": "https://perenual.com/storage/species_image/59_acer_palmatum_hessei/small/Acer_amoenum_var_matsumurae1.jpg",
+      "thumbnail": "https://perenual.com/storage/species_image/59_acer_palmatum_hessei/thumbnail/Acer_amoenum_var_matsumurae1.jpg"
+      }
+      },
+      {
+      "common_name": "Higasa Yama Japanese Maple",
+      "scientific_name": [
+      "Acer palmatum 'Higasa Yama'"
+      ],
+      "other_name": [
+      "Higasayama"
+      ],
+      "cycle": "Perennial",
+      "watering": "Average",
+      "sunlight": [
+      "part sun/part shade",
+      "part shade"
+      ],
+      "default_image": {
+      "license": 4,
+      "license_name": "Attribution License",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "original_url": "https://perenual.com/storage/species_image/60_acer_palmatum_higasa_yama/og/51522802351_37623328e0_b.jpg",
+      "regular_url": "https://perenual.com/storage/species_image/60_acer_palmatum_higasa_yama/regular/51522802351_37623328e0_b.jpg",
+      "medium_url": "https://perenual.com/storage/species_image/60_acer_palmatum_higasa_yama/medium/51522802351_37623328e0_b.jpg",
+      "small_url": "https://perenual.com/storage/species_image/60_acer_palmatum_higasa_yama/small/51522802351_37623328e0_b.jpg",
+      "thumbnail": "https://perenual.com/storage/species_image/60_acer_palmatum_higasa_yama/thumbnail/51522802351_37623328e0_b.jpg"
+      }
+      },
+      {
+        "common_name": "Hogyoku Japanese Maple",
+        "scientific_name": [
+        "Acer palmatum 'Hogyoku'"
+        ],
+        "other_name": [],
+        "cycle": "Perennial",
+        "watering": "Average",
+        "sunlight": [
+        "full sun",
+        "part shade"
+        ],
+        "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/61_acer_palmatum_hogyoku/og/2560px-Kyoto_Japan0431.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/61_acer_palmatum_hogyoku/regular/2560px-Kyoto_Japan0431.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/61_acer_palmatum_hogyoku/medium/2560px-Kyoto_Japan0431.jpg",
+        "small_url": "https://perenual.com/storage/species_image/61_acer_palmatum_hogyoku/small/2560px-Kyoto_Japan0431.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/61_acer_palmatum_hogyoku/thumbnail/2560px-Kyoto_Japan0431.jpg"
+        }
+        },
+        {
+        "common_name": "Hubb's Red Willow Japanese Maple",
+        "scientific_name": [
+        "Acer palmatum 'Hubb's Red Willow'"
+        ],
+        "other_name": [],
+        "cycle": "Perennial",
+        "watering": "Frequent",
+        "sunlight": [
+        "part shade",
+        "part sun/part shade"
+        ],
+        "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/62_acer_palmatum_hubbs_red_willow/og/Acer_japonicum_rubra_leaves.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/62_acer_palmatum_hubbs_red_willow/regular/Acer_japonicum_rubra_leaves.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/62_acer_palmatum_hubbs_red_willow/medium/Acer_japonicum_rubra_leaves.jpg",
+        "small_url": "https://perenual.com/storage/species_image/62_acer_palmatum_hubbs_red_willow/small/Acer_japonicum_rubra_leaves.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/62_acer_palmatum_hubbs_red_willow/thumbnail/Acer_japonicum_rubra_leaves.jpg"
+        }
+        },
+        {
+        "common_name": "Iijima Sunago Japanese Maple",
+        "scientific_name": [
+        "Acer palmatum 'Iijima Sunago'"
+        ],
+        "other_name": [],
+        "cycle": "Perennial",
+        "watering": "Average",
+        "sunlight": [
+        "full sun",
+        "part shade"
+        ],
+        "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/63_acer_palmatum_iijima_sunago/og/Acer_palmatum_27Oshio_beni27_-_JPG1.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/63_acer_palmatum_iijima_sunago/regular/Acer_palmatum_27Oshio_beni27_-_JPG1.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/63_acer_palmatum_iijima_sunago/medium/Acer_palmatum_27Oshio_beni27_-_JPG1.jpg",
+        "small_url": "https://perenual.com/storage/species_image/63_acer_palmatum_iijima_sunago/small/Acer_palmatum_27Oshio_beni27_-_JPG1.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/63_acer_palmatum_iijima_sunago/thumbnail/Acer_palmatum_27Oshio_beni27_-_JPG1.jpg"
+        }
+        },
+        {
+        "common_name": "Inaba Shidare Cutleaf Japanese Maple",
+        "scientific_name": [
+        "Acer palmatum 'Inaba Shidare'"
+        ],
+        "other_name": [],
+        "cycle": "Perennial",
+        "watering": "Frequent",
+        "sunlight": [
+        "full sun",
+        "part shade"
+        ],
+        "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/64_acer_palmatum_inaba_shidare/og/2465696230_ab34a4a784_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/64_acer_palmatum_inaba_shidare/regular/2465696230_ab34a4a784_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/64_acer_palmatum_inaba_shidare/medium/2465696230_ab34a4a784_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/64_acer_palmatum_inaba_shidare/small/2465696230_ab34a4a784_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/64_acer_palmatum_inaba_shidare/thumbnail/2465696230_ab34a4a784_b.jpg"
+        }
+        },
+        {
+        "common_name": "Inazuma Japanese Maple",
+        "scientific_name": [
+        "Acer palmatum 'Inazuma'"
+        ],
+        "other_name": [],
+        "cycle": "Perennial",
+        "watering": "Average",
+        "sunlight": [
+        "full sun",
+        "part shade"
+        ],
+        "default_image": null
+        },
+        {
+        "common_name": "Jiro Shidare Japanese Maple",
+        "scientific_name": [
+        "Acer palmatum 'Jiro Shidare'"
+        ],
+        "other_name": [],
+        "cycle": "Perennial",
+        "watering": "Frequent",
+        "sunlight": [
+        "full sun",
+        "part shade"
+        ],
+        "default_image": null
+        },
+        {
+        "common_name": "Kagiri Nishiki Japanese Maple",
+        "scientific_name": [
+        "Acer palmatum 'Kagiri Nishiki'"
+        ],
+        "other_name": [],
+        "cycle": "Perennial",
+        "watering": "Frequent",
+        "sunlight": [
+        "full sun",
+        "part shade"
+        ],
+        "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/67_acer_palmatum_kagiri_nishiki/og/800px-Acer_palmatum_27Kagiri-nishiki27_sunlit_branch.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/67_acer_palmatum_kagiri_nishiki/regular/800px-Acer_palmatum_27Kagiri-nishiki27_sunlit_branch.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/67_acer_palmatum_kagiri_nishiki/medium/800px-Acer_palmatum_27Kagiri-nishiki27_sunlit_branch.jpg",
+        "small_url": "https://perenual.com/storage/species_image/67_acer_palmatum_kagiri_nishiki/small/800px-Acer_palmatum_27Kagiri-nishiki27_sunlit_branch.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/67_acer_palmatum_kagiri_nishiki/thumbnail/800px-Acer_palmatum_27Kagiri-nishiki27_sunlit_branch.jpg"
+        }
+        },
+        {
+        "common_name": "Kamagata Japanese Maple",
+        "scientific_name": [
+        "Acer palmatum 'Kamagata'"
+        ],
+        "other_name": [],
+        "cycle": "Perennial",
+        "watering": "Average",
+        "sunlight": [
+        "full sun",
+        "part shade"
+        ],
+        "default_image": null
+        },
+        {
+        "common_name": "Kandy Kitchen Japanese Maple",
+        "scientific_name": [
+        "Acer palmatum 'Kandy Kitchen'"
+        ],
+        "other_name": [],
+        "cycle": "Perennial",
+        "watering": "Average",
+        "sunlight": [
+        "full sun",
+        "part shade"
+        ],
+        "default_image": null
+        },
+        {
+        "common_name": "Karasu Gawa Japanese Maple*",
+        "scientific_name": [
+        "Acer palmatum 'Karasu Gawa'"
+        ],
+        "other_name": [
+        "Karasugawa"
+        ],
+        "cycle": "Perennial",
+        "watering": "Average",
+        "sunlight": [
+        "full sun",
+        "part shade"
+        ],
+        "default_image": null
+        },
+        {
+        "common_name": "Kasagi Yama Japanese Maple",
+        "scientific_name": [
+        "Acer palmatum 'Kasagi Yama'"
+        ],
+        "other_name": [
+        "Kasagiyama Japanese Maple"
+        ],
+        "cycle": "Perennial",
+        "watering": "Average",
+        "sunlight": [
+        "full sun",
+        "part shade"
+        ],
+        "default_image": null
+        },
+        {
+        "common_name": "Katsura Japanese Maple",
+        "scientific_name": [
+        "Acer palmatum 'Katsura'"
+        ],
+        "other_name": [],
+        "cycle": "Perennial",
+        "watering": "Average",
+        "sunlight": [
+        "part shade",
+        "part sun/part shade"
+        ],
+        "default_image": {
+        "license": 6,
+        "license_name": "Attribution-NoDerivs License",
+        "license_url": "https://creativecommons.org/licenses/by-nd/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/72_acer_palmatum_katsura/og/33974454551_0965ae099b_b.jpg"
+        }
+        },
+        {
+        "common_name": "Kiri Nishiki Japanese Maple",
+        "scientific_name": [
+        "Acer palmatum 'Kiri Nishiki'"
+        ],
+        "other_name": [],
+        "cycle": "Perennial",
+        "watering": "Frequent",
+        "sunlight": [
+        "full sun",
+        "part sun/part shade"
+        ],
+        "default_image": null
+        },
+        {
+        "common_name": "Kiyohime Japanese Maple",
+        "scientific_name": [
+        "Acer palmatum 'Kiyohime'"
+        ],
+        "other_name": [
+        "Kiyo Hime"
+        ],
+        "cycle": "Perennial",
+        "watering": "Frequent",
+        "sunlight": [
+        "full sun",
+        "part shade"
+        ],
+        "default_image": {
+        "license": 451,
+        "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "original_url": "https://perenual.com/storage/species_image/74_acer_palmatum_kiyohime/og/pexels-photo-5745584.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/74_acer_palmatum_kiyohime/regular/pexels-photo-5745584.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/74_acer_palmatum_kiyohime/medium/pexels-photo-5745584.jpg",
+        "small_url": "https://perenual.com/storage/species_image/74_acer_palmatum_kiyohime/small/pexels-photo-5745584.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/74_acer_palmatum_kiyohime/thumbnail/pexels-photo-5745584.jpg"
+        }
+        },
+        {
+        "common_name": "Koshibori Nishiki Japanese Maple*",
+        "scientific_name": [
+        "Acer palmatum 'Koshibori Nishiki'"
+        ],
+        "other_name": [],
+        "cycle": "Perennial",
+        "watering": "Average",
+        "sunlight": [
+        "full sun",
+        "part shade"
+        ],
+        "default_image": null
+        },
+        {
+        "common_name": "Koto No Ito Japanese Maple",
+        "scientific_name": [
+        "Acer palmatum 'Koto No Ito'"
+        ],
+        "other_name": [
+        "Harp String",
+        "Koto-No-Ito"
+        ],
+        "cycle": "Perennial",
+        "watering": "Average",
+        "sunlight": [
+        "filtered shade",
+        "full sun only if soil kept moist",
+        "part sun/part shade"
+        ],
+        "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/76_acer_palmatum_koto_no_ito/og/Acer_palmatum_27Linearilobum27_JPG1L.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/76_acer_palmatum_koto_no_ito/regular/Acer_palmatum_27Linearilobum27_JPG1L.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/76_acer_palmatum_koto_no_ito/medium/Acer_palmatum_27Linearilobum27_JPG1L.jpg",
+        "small_url": "https://perenual.com/storage/species_image/76_acer_palmatum_koto_no_ito/small/Acer_palmatum_27Linearilobum27_JPG1L.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/76_acer_palmatum_koto_no_ito/thumbnail/Acer_palmatum_27Linearilobum27_JPG1L.jpg"
+        }
+        },
+        {
+        "common_name": "Linearilobum Japanese Maple",
+        "scientific_name": [
+        "Acer palmatum 'Linearilobum'"
+        ],
+        "other_name": [
+        "Bamboo-Leaf Japanese Maple"
+        ],
+        "cycle": "Perennial",
+        "watering": "Average",
+        "sunlight": [
+        "full sun",
+        "part shade"
+        ],
+        "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/77_acer_palmatum_linearilobum/og/3466572143_4470363413_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/77_acer_palmatum_linearilobum/regular/3466572143_4470363413_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/77_acer_palmatum_linearilobum/medium/3466572143_4470363413_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/77_acer_palmatum_linearilobum/small/3466572143_4470363413_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/77_acer_palmatum_linearilobum/thumbnail/3466572143_4470363413_b.jpg"
+        }
+        },
+        {
+        "common_name": "Margaret Bee Japanese Maple",
+        "scientific_name": [
+        "Acer palmatum 'Margaret Bee'"
+        ],
+        "other_name": [],
+        "cycle": "Perennial",
+        "watering": "Average",
+        "sunlight": [
+        "part shade",
+        "part sun/part shade"
+        ],
+        "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/78_acer_palmatum_margaret_bee/og/Acer_palmatum_28Japanese_maple_tree29_3_284904402847329.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/78_acer_palmatum_margaret_bee/regular/Acer_palmatum_28Japanese_maple_tree29_3_284904402847329.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/78_acer_palmatum_margaret_bee/medium/Acer_palmatum_28Japanese_maple_tree29_3_284904402847329.jpg",
+        "small_url": "https://perenual.com/storage/species_image/78_acer_palmatum_margaret_bee/small/Acer_palmatum_28Japanese_maple_tree29_3_284904402847329.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/78_acer_palmatum_margaret_bee/thumbnail/Acer_palmatum_28Japanese_maple_tree29_3_284904402847329.jpg"
+        }
+        },
+        {
+        "common_name": "Mikawa Yatsubusa Japanese Maple",
+        "scientific_name": [
+        "Acer palmatum 'Mikawa Yatsubusa'"
+        ],
+        "other_name": [],
+        "cycle": "Perennial",
+        "watering": "Average",
+        "sunlight": [
+        "part shade",
+        "part sun/part shade"
+        ],
+        "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/79_acer_palmatum_mikawa_yatsubusa/og/2560px-Acer_palmatum_27Kashima_Yatsubusa27_-_Asticou_Azalea_Garden_-_Northeast_Harbor2C_Maine_-_DSC03516.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/79_acer_palmatum_mikawa_yatsubusa/regular/2560px-Acer_palmatum_27Kashima_Yatsubusa27_-_Asticou_Azalea_Garden_-_Northeast_Harbor2C_Maine_-_DSC03516.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/79_acer_palmatum_mikawa_yatsubusa/medium/2560px-Acer_palmatum_27Kashima_Yatsubusa27_-_Asticou_Azalea_Garden_-_Northeast_Harbor2C_Maine_-_DSC03516.jpg",
+        "small_url": "https://perenual.com/storage/species_image/79_acer_palmatum_mikawa_yatsubusa/small/2560px-Acer_palmatum_27Kashima_Yatsubusa27_-_Asticou_Azalea_Garden_-_Northeast_Harbor2C_Maine_-_DSC03516.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/79_acer_palmatum_mikawa_yatsubusa/thumbnail/2560px-Acer_palmatum_27Kashima_Yatsubusa27_-_Asticou_Azalea_Garden_-_Northeast_Harbor2C_Maine_-_DSC03516.jpg"
+        }
+        },
+        {
+        "common_name": "Mikazuki Japanese Maple",
+        "scientific_name": [
+        "Acer palmatum 'Mikazuki'"
+        ],
+        "other_name": [],
+        "cycle": "Perennial",
+        "watering": "Average",
+        "sunlight": [
+        "full sun",
+        "part shade"
+        ],
+        "default_image": null
+        },
+        {
+        "common_name": "Moonfire Japanese Maple",
+        "scientific_name": [
+        "Acer palmatum 'Moonfire'"
+        ],
+        "other_name": [],
+        "cycle": "Perennial",
+        "watering": "Average",
+        "sunlight": [
+        "part sun/part shade",
+        "full sun"
+        ],
+        "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/81_acer_palmatum_moonfire/og/4846299174_5cb4e644ae_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/81_acer_palmatum_moonfire/regular/4846299174_5cb4e644ae_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/81_acer_palmatum_moonfire/medium/4846299174_5cb4e644ae_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/81_acer_palmatum_moonfire/small/4846299174_5cb4e644ae_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/81_acer_palmatum_moonfire/thumbnail/4846299174_5cb4e644ae_b.jpg"
+        }
+        },
+        {
+        "common_name": "Nishiki Gawa Japanese Maple*",
+        "scientific_name": [
+        "Acer palmatum 'Nishiki Gawa'"
+        ],
+        "other_name": [
+        "Pine Bark Maple"
+        ],
+        "cycle": "Perennial",
+        "watering": "Average",
+        "sunlight": [
+        "full sun"
+        ],
+        "default_image": null
+        },
+        {
+        "common_name": "Nuresagi Japanese Maple",
+        "scientific_name": [
+        "Acer palmatum 'Nuresagi'"
+        ],
+        "other_name": [
+        "Wet Heron Japanese Maple"
+        ],
+        "cycle": "Perennial",
+        "watering": "Frequent",
+        "sunlight": [
+        "full sun",
+        "part shade"
+        ],
+        "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/83_acer_palmatum_nuresagi/og/Acer_palmatum_27Nuresagi27_JPG1c.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/83_acer_palmatum_nuresagi/regular/Acer_palmatum_27Nuresagi27_JPG1c.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/83_acer_palmatum_nuresagi/medium/Acer_palmatum_27Nuresagi27_JPG1c.jpg",
+        "small_url": "https://perenual.com/storage/species_image/83_acer_palmatum_nuresagi/small/Acer_palmatum_27Nuresagi27_JPG1c.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/83_acer_palmatum_nuresagi/thumbnail/Acer_palmatum_27Nuresagi27_JPG1c.jpg"
+        }
+        },
+        {
+        "common_name": "Okagami Japanese Maple",
+        "scientific_name": [
+        "Acer palmatum 'Okagami'"
+        ],
+        "other_name": [],
+        "cycle": "Perennial",
+        "watering": "Average",
+        "sunlight": [
+        "full sun",
+        "part shade"
+        ],
+        "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/84_acer_palmatum_okagami/og/4555737792_4363d30713_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/84_acer_palmatum_okagami/regular/4555737792_4363d30713_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/84_acer_palmatum_okagami/medium/4555737792_4363d30713_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/84_acer_palmatum_okagami/small/4555737792_4363d30713_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/84_acer_palmatum_okagami/thumbnail/4555737792_4363d30713_b.jpg"
+        }
+        },
+        {
+        "common_name": "Okushimo Japanese Maple",
+        "scientific_name": [
+        "Acer palmatum 'Okushimo'"
+        ],
+        "other_name": [
+        "Okushimu",
+        "Pepper and Salt Japanese Maple"
+        ],
+        "cycle": "Perennial",
+        "watering": "Average",
+        "sunlight": [
+        "full sun",
+        "part shade"
+        ],
+        "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/85_acer_palmatum_okushimo/og/27477811140_2298882b2f_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/85_acer_palmatum_okushimo/regular/27477811140_2298882b2f_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/85_acer_palmatum_okushimo/medium/27477811140_2298882b2f_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/85_acer_palmatum_okushimo/small/27477811140_2298882b2f_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/85_acer_palmatum_okushimo/thumbnail/27477811140_2298882b2f_b.jpg"
+        }
+        },
+        {
+        "common_name": "Orange Dream Japanese Maple",
+        "scientific_name": [
+        "Acer palmatum 'Orange Dream'"
+        ],
+        "other_name": [],
+        "cycle": "Perennial",
+        "watering": "Average",
+        "sunlight": [
+        "full sun",
+        "part shade"
+        ],
+        "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/86_acer_palmatum_orange_dream/og/2560px-Acer_palmatum_27Orange_Dream27_-_2020-05-08_-_Andy_Mabbett_-_13.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/86_acer_palmatum_orange_dream/regular/2560px-Acer_palmatum_27Orange_Dream27_-_2020-05-08_-_Andy_Mabbett_-_13.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/86_acer_palmatum_orange_dream/medium/2560px-Acer_palmatum_27Orange_Dream27_-_2020-05-08_-_Andy_Mabbett_-_13.jpg",
+        "small_url": "https://perenual.com/storage/species_image/86_acer_palmatum_orange_dream/small/2560px-Acer_palmatum_27Orange_Dream27_-_2020-05-08_-_Andy_Mabbett_-_13.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/86_acer_palmatum_orange_dream/thumbnail/2560px-Acer_palmatum_27Orange_Dream27_-_2020-05-08_-_Andy_Mabbett_-_13.jpg"
+        }
+        },
+        {
+        "common_name": "Orangeola Cutleaf Japanese Maple",
+        "scientific_name": [
+        "Acer palmatum 'Orangeola'"
+        ],
+        "other_name": [],
+        "cycle": "Perennial",
+        "watering": "Average",
+        "sunlight": [
+        "full sun",
+        "part shade"
+        ],
+        "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/87_acer_palmatum_orangeola/og/4714671587_8ecba52560_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/87_acer_palmatum_orangeola/regular/4714671587_8ecba52560_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/87_acer_palmatum_orangeola/medium/4714671587_8ecba52560_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/87_acer_palmatum_orangeola/small/4714671587_8ecba52560_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/87_acer_palmatum_orangeola/thumbnail/4714671587_8ecba52560_b.jpg"
+        }
+        },
+        {
+        "common_name": "Oregon Sunset Japanese Maple",
+        "scientific_name": [
+        "Acer palmatum 'Oregon Sunset'"
+        ],
+        "other_name": [],
+        "cycle": "Perennial",
+        "watering": "Average",
+        "sunlight": [
+        "full sun",
+        "part shade"
+        ],
+        "default_image": {
+        "license": 451,
+        "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "original_url": "https://perenual.com/storage/species_image/88_acer_palmatum_oregon_sunset/og/autumn-leaves-leaves-autumn-the-leaves-deciduous-nature.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/88_acer_palmatum_oregon_sunset/regular/autumn-leaves-leaves-autumn-the-leaves-deciduous-nature.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/88_acer_palmatum_oregon_sunset/medium/autumn-leaves-leaves-autumn-the-leaves-deciduous-nature.jpg",
+        "small_url": "https://perenual.com/storage/species_image/88_acer_palmatum_oregon_sunset/small/autumn-leaves-leaves-autumn-the-leaves-deciduous-nature.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/88_acer_palmatum_oregon_sunset/thumbnail/autumn-leaves-leaves-autumn-the-leaves-deciduous-nature.jpg"
+        }
+        },
+        {
+        "common_name": "Oridono Nishiki Japanese Maple*",
+        "scientific_name": [
+        "Acer palmatum 'Oridono Nishiki'"
+        ],
+        "other_name": [],
+        "cycle": "Perennial",
+        "watering": "Average",
+        "sunlight": [
+        "full sun",
+        "part shade"
+        ],
+        "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/89_acer_palmatum_oridono_nishiki/og/Acer_palmatum_Oridono_nishiki_0zz.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/89_acer_palmatum_oridono_nishiki/regular/Acer_palmatum_Oridono_nishiki_0zz.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/89_acer_palmatum_oridono_nishiki/medium/Acer_palmatum_Oridono_nishiki_0zz.jpg",
+        "small_url": "https://perenual.com/storage/species_image/89_acer_palmatum_oridono_nishiki/small/Acer_palmatum_Oridono_nishiki_0zz.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/89_acer_palmatum_oridono_nishiki/thumbnail/Acer_palmatum_Oridono_nishiki_0zz.jpg"
+        }
+        },
+        {
+        "common_name": "Ornatum Japanese Maple*",
+        "scientific_name": [
+        "Acer palmatum 'Ornatum'"
+        ],
+        "other_name": [
+        "Dissectum Ornatum"
+        ],
+        "cycle": "Perennial",
+        "watering": "Average",
+        "sunlight": [
+        "full sun",
+        "part shade"
+        ],
+        "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/90_acer_palmatum_ornatum/og/Acer_palmatum_var._dissectum_Ornatum_1zz.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/90_acer_palmatum_ornatum/regular/Acer_palmatum_var._dissectum_Ornatum_1zz.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/90_acer_palmatum_ornatum/medium/Acer_palmatum_var._dissectum_Ornatum_1zz.jpg",
+        "small_url": "https://perenual.com/storage/species_image/90_acer_palmatum_ornatum/small/Acer_palmatum_var._dissectum_Ornatum_1zz.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/90_acer_palmatum_ornatum/thumbnail/Acer_palmatum_var._dissectum_Ornatum_1zz.jpg"
+        }
+        }
 ]
