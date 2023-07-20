@@ -53,3 +53,15 @@ export const deletePlant = async (req, res) => {
     res.status(500).json({ error: error.message });
   }
 };
+
+export const getNeedsFrequentWatering = async (req, res) => {
+  let needsFrequentWatering = await Plant.find({ watering: "Frequent" });
+
+  res.json(needsFrequentWatering);
+};
+
+export const getNeedsAverageWatering = async (req, res) => {
+  let needsAverageWatering = await Plant.find({ watering: "Average" });
+
+  res.json(needsAverageWatering);
+};
