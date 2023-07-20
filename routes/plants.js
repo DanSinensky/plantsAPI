@@ -4,8 +4,7 @@ import * as controllers from "../controllers/plants.js";
 const router = Router();
 
 router.get("/", controllers.getPlants);
-// router.get("/frequent", controllers.getNeedsFrequentWatering)
-// router.get("/average", controllers.getNeedsAverageWatering)
+router.get("/watering/:watering", controllers.getNeedsWatering)
 router.get("/drought_tolerant", controllers.getDroughtTolerant);
 router.get("/salt_tolerant", controllers.getSaltTolerant);
 router.get("/thorny", controllers.getThorny);

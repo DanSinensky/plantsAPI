@@ -90,14 +90,8 @@ export const getIndoor = async (req, res) => {
   res.json(indoor)
 };
 
-// export const getNeedsFrequentWatering = async (req, res) => {
-//   let needsFrequentWatering = await Plant.find({ watering: "Frequent" });
+export const getNeedsWatering = async (req, res) => {
+  let needsWatering = await Plant.find({ watering: req.params.watering.charAt(0).toUpperCase() + req.params.watering.slice(1)});
 
-//   res.json(needsFrequentWatering);
-// };
-
-// export const getNeedsAverageWatering = async (req, res) => {
-//   let needsAverageWatering = await Plant.find({ watering: "Average" });
-
-//   res.json(needsAverageWatering);
-// };
+  res.json(needsWatering);
+};
