@@ -800,5 +800,587 @@
     "thumbnail": "https://perenual.com/storage/species_image/6_abies_koreana_aurea/thumbnail/49235570926_99ec10781d_b.jpg"
     },
     "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+  },
+  {
+    "common_name": "Alpine Fir",
+    "scientific_name": [
+    "Abies lasiocarpa"
+    ],
+    "other_name": [
+    "Subalpine Fir",
+    "Rocky Mountain Fir"
+    ],
+    "family": "Pinaceae",
+    "origin": [
+    "Canada",
+    "United States",
+    "Mexico",
+    "Guatemala",
+    "Honduras",
+    "El Salvador",
+    "Nicaragua",
+    "Costa Rica",
+    "Panama"
+    ],
+    "type": "tree",
+    "dimension": "Height:  70 feet",
+    "dimensions": {
+    "type": "Height",
+    "min_value": 70,
+    "max_value": 70,
+    "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+    "Seed Propagation",
+    "Cutting",
+    "Grafting Propagation",
+    "Layering Propagation",
+    "Division"
+    ],
+    "hardiness": {
+    "min": "2",
+    "max": "2"
+    },
+    "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=7&size=og&key=sk-dVrJ64b9339eba7161622",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=7&size=og&key=sk-dVrJ64b9339eba7161622'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+    "unit": "",
+    "value": ""
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+    "value": null,
+    "unit": "days"
+    },
+    "plant_anatomy": [
+    {
+    "part": "leaves",
+    "color": [
+    "green"
+    ]
+    },
+    {
+    "part": "buds",
+    "color": [
+    "brown"
+    ]
+    },
+    {
+    "part": "twig",
+    "color": [
+    "silver-brown"
+    ]
+    },
+    {
+    "part": "bristles",
+    "color": [
+    "green"
+    ]
+    },
+    {
+    "part": "twigs",
+    "color": [
+    "silver-brown",
+    "brown"
+    ]
+    },
+    {
+    "part": "needles",
+    "color": [
+    "green"
+    ]
+    },
+    {
+    "part": "trunk",
+    "color": [
+    "green-silver",
+    "dark-brown"
+    ]
+    },
+    {
+    "part": "branches",
+    "color": [
+    "brown"
+    ]
+    },
+    {
+    "part": "trunks",
+    "color": [
+    "light-gray"
+    ]
+    }
+    ],
+    "sunlight": [
+    "full sun",
+    "part shade"
+    ],
+    "pruning_month": [
+    "February",
+    "March",
+    "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=7&key=sk-dVrJ64b9339eba7161622",
+    "soil": [
+    "Loamy Rocky"
+    ],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": true,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+    "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Alpine Fir, scientifically known as Abies lasiocarpa, is an amazing conifer native to western North America. Its stiff, dense needles bring vivid color year-round and its pyramidal growth habit adds texture and interest to any landscape. With its tolerance to a variety of soils and conditions, this evergreen is both versatile and visually striking. Its branches reach out and cast a unique evergreen form of showy clouds. Through years of growth, it develops a sturdy trunk and crooked branches that are quite striking. Alpine Fir also provides winter cover and shelter for wildlife. Its dense needles are an ideal refuge from cold and precipitation. Its strong branches and trunk also provide perching points for nesting birds. Alpine Fir is truly one of nature’s most diverse and visually stunning plants.",
+    "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/7_abies_lasiocarpa/og/51002756843_74fae3c2fa_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/7_abies_lasiocarpa/regular/51002756843_74fae3c2fa_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/7_abies_lasiocarpa/medium/51002756843_74fae3c2fa_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/7_abies_lasiocarpa/small/51002756843_74fae3c2fa_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/7_abies_lasiocarpa/thumbnail/51002756843_74fae3c2fa_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+  },
+  {
+    "common_name": "Blue Spanish Fir",
+    "scientific_name": [
+    "Abies pinsapo 'Glauca'"
+    ],
+    "other_name": [
+    "Glaucous Spanish Fir"
+    ],
+    "family": "Pinaceae",
+    "origin": [
+    "Southern Spain"
+    ],
+    "type": "tree",
+    "dimension": "Height:  45 feet",
+    "dimensions": {
+    "type": "Height",
+    "min_value": 45,
+    "max_value": 45,
+    "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+    "Cutting",
+    "Grafting Propagation",
+    "Layering Propagation",
+    "Seed Propagation"
+    ],
+    "hardiness": {
+    "min": "7",
+    "max": "7"
+    },
+    "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=8&size=og&key=sk-dVrJ64b9339eba7161622",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=8&size=og&key=sk-dVrJ64b9339eba7161622'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+    "unit": "inches",
+    "value": "2"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+    "value": "7-10",
+    "unit": "days"
+    },
+    "plant_anatomy": [
+    {
+    "part": "cones",
+    "color": [
+    "green",
+    "light-green"
+    ]
+    },
+    {
+    "part": "leaves",
+    "color": [
+    "dark-green"
+    ]
+    },
+    {
+    "part": "stems",
+    "color": [
+    "brown"
+    ]
+    },
+    {
+    "part": "branches",
+    "color": [
+    "brown"
+    ]
+    },
+    {
+    "part": "twigs",
+    "color": [
+    "brown"
+    ]
+    }
+    ],
+    "sunlight": [
+    "Full sun",
+    "part shade"
+    ],
+    "pruning_month": [
+    "March",
+    "April",
+    "June",
+    "July",
+    "August",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August"
+    ],
+    "pruning_count": {
+    "amount": 2,
+    "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": "Moderate",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=8&key=sk-dVrJ64b9339eba7161622",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Non-flowering",
+    "cones": true,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+    "silver"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Blue Spanish Fir (Abies pinsapo 'Glauca') is an amazing plant that is native to the mountains of southern Spain. Its beautiful blue needle-like foliage and pyramidal shape set it apart from other coniferous trees. This tree is an extremely hardy species, and can survive temperatures as low as -20 Fahrenheit. It is also incredibly drought tolerant, but will thrive with regular watering in the summer. Its striking blue color makes it the perfect accent to any landscaping design, adding a pop of color to your garden. It is also surprisingly fast-growing, making it ideal for creating a privacy screen quickly. All in all, the Blue Spanish Fir is an amazing plant that can bring year-round beauty to any garden!",
+    "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/8_abies_pinsapo_glauca/og/21657514018_c0d9fed9f4_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/8_abies_pinsapo_glauca/regular/21657514018_c0d9fed9f4_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/8_abies_pinsapo_glauca/medium/21657514018_c0d9fed9f4_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/8_abies_pinsapo_glauca/small/21657514018_c0d9fed9f4_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/8_abies_pinsapo_glauca/thumbnail/21657514018_c0d9fed9f4_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+  },
+  {
+    "common_name": "Noble Fir",
+    "scientific_name": [
+    "Abies procera"
+    ],
+    "other_name": [
+    "Red Fir",
+    "White Fir"
+    ],
+    "family": "Pinaceae",
+    "origin": [
+    "United States",
+    "Canada",
+    "Mexico",
+    "Central America",
+    "South America"
+    ],
+    "type": "tree",
+    "dimension": "Height:  90 feet",
+    "dimensions": {
+    "type": "Height",
+    "min_value": 90,
+    "max_value": 90,
+    "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+    "Squirrels",
+    " Birds"
+    ],
+    "propagation": [
+    "Seed Propagation",
+    "Cutting",
+    "Grafting Propagation",
+    "Layering Propagation",
+    "Air Layering Propagation"
+    ],
+    "hardiness": {
+    "min": "8",
+    "max": "8"
+    },
+    "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=9&size=og&key=sk-dVrJ64b9339eba7161622",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=9&size=og&key=sk-dVrJ64b9339eba7161622'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+    "value": null,
+    "unit": "days"
+    },
+    "plant_anatomy": [
+    {
+    "part": "trunk",
+    "color": [
+    "brown",
+    "light-brown",
+    "white-brown"
+    ]
+    },
+    {
+    "part": "leaves",
+    "color": [
+    "dark-green",
+    "green"
+    ]
+    },
+    {
+    "part": "branches",
+    "color": [
+    "brown"
+    ]
+    },
+    {
+    "part": "branch",
+    "color": [
+    "brown"
+    ]
+    }
+    ],
+    "sunlight": [
+    "full sun"
+    ],
+    "pruning_month": [
+    "February",
+    "March",
+    "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=9&key=sk-dVrJ64b9339eba7161622",
+    "soil": [
+    "Loamy Rocky"
+    ],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": true,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+    "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Noble Fir (Abies procera) is an amazing species in many ways. It is a tall and stately tree with a beautiful, conical shape; its symmetrical branches are heavily laden with needles that range from a deep, glossy green to a deep blue-green. It has a thick, scaly bark and splendid foliage that make it an ideal choice for any garden. Its wide, dense growth provides shelter to wildlife, while its strong branches provide it with excellent resistance to windstorms. The Noble Fir is a long-lasting species with impressive longevity, making it a great addition to any landscape. With its majestic form, lush color, and great strength, the Noble Fir is a remarkable species that will enhance any outdoor space.",
+    "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/9_abies_procera/og/49107504112_6bd7effb8b_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/9_abies_procera/regular/49107504112_6bd7effb8b_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/9_abies_procera/medium/49107504112_6bd7effb8b_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/9_abies_procera/small/49107504112_6bd7effb8b_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/9_abies_procera/thumbnail/49107504112_6bd7effb8b_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+  },
+  {
+    "common_name": "Johin Japanese Maple",
+    "scientific_name": [
+    "Acer 'Johin'"
+    ],
+    "other_name": [
+    "Red Full Moon Maple"
+    ],
+    "family": null,
+    "origin": [
+    "Japan"
+    ],
+    "type": "tree",
+    "dimension": "Height:  25 feet",
+    "dimensions": {
+    "type": "Height",
+    "min_value": 25,
+    "max_value": 25,
+    "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+    "Air Layering Propagation",
+    "Grafting Propagation",
+    "Cutting",
+    "Division",
+    "Seed Propagation"
+    ],
+    "hardiness": {
+    "min": "6",
+    "max": "6"
+    },
+    "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=10&size=og&key=sk-dVrJ64b9339eba7161622",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=10&size=og&key=sk-dVrJ64b9339eba7161622'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": {
+    "unit": "gallon",
+    "value": "1"
+    },
+    "watering_period": null,
+    "watering_general_benchmark": {
+    "value": "7-10",
+    "unit": "days"
+    },
+    "plant_anatomy": [
+    {
+    "part": "leaves",
+    "color": [
+    "bright-red"
+    ]
+    },
+    {
+    "part": "veins",
+    "color": [
+    "yellow"
+    ]
+    },
+    {
+    "part": "stems",
+    "color": [
+    "red"
+    ]
+    }
+    ],
+    "sunlight": [
+    "full sun",
+    "part shade"
+    ],
+    "pruning_month": [
+    "March",
+    "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=10&key=sk-dVrJ64b9339eba7161622",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+    "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Johin Japanese Maple (Acer 'Johin') is a one-of-a-kind variety with incredible foliage that's sure to turn heads. It stands out from the crowd with its bright yellow-green colored leaves, framed by a deep green margin. Mature trees usually have a beautiful, gnarled trunk, making it an ideal choice for bonsai enthusiasts. In the spring, its delicate white flowers add an extra layer of beauty, before the dramatic autumn hues of red, yellow and orange set in. It's an easy-to-care-for, slow-growing tree that becomes even more stunning with age. Perfect for home gardens, patio or courtyard spaces, it's no wonder the Johin Japanese Maple is so popular.",
+    "default_image": {
+    "license": 451,
+    "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "original_url": "https://perenual.com/storage/species_image/10_acer_johin/og/pexels-photo-2183508.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/10_acer_johin/regular/pexels-photo-2183508.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/10_acer_johin/medium/pexels-photo-2183508.jpg",
+    "small_url": "https://perenual.com/storage/species_image/10_acer_johin/small/pexels-photo-2183508.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/10_acer_johin/thumbnail/pexels-photo-2183508.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
   }
 ]
