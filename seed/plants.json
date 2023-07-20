@@ -1382,5 +1382,1324 @@
     "thumbnail": "https://perenual.com/storage/species_image/10_acer_johin/thumbnail/pexels-photo-2183508.jpg"
     },
     "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+  },
+  {
+    "common_name": "Snakebark Maple",
+    "scientific_name": [
+    "Acer davidii"
+    ],
+    "other_name": [
+    "Father David's Maple",
+    "Pere David's Maple"
+    ],
+    "family": "Sapindaceae",
+    "origin": [
+    "China",
+    "Myanmar"
+    ],
+    "type": "tree",
+    "dimension": "Height:  25 feet",
+    "dimensions": {
+    "type": "Height",
+    "min_value": 25,
+    "max_value": 25,
+    "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+    "Grafting Propagation",
+    "Layering Propagation",
+    "Cutting",
+    "Seed Propagation"
+    ],
+    "hardiness": {
+    "min": "6",
+    "max": "6"
+    },
+    "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=11&size=og&key=sk-dVrJ64b9339eba7161622",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=11&size=og&key=sk-dVrJ64b9339eba7161622'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+    "unit": "inches",
+    "value": "2"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+    "value": "3-4",
+    "unit": "days"
+    },
+    "plant_anatomy": [
+    {
+    "part": "leaves",
+    "color": [
+    "yellow-brown",
+    "green"
+    ]
+    },
+    {
+    "part": "branches",
+    "color": [
+    "green-brown",
+    "light-green",
+    "green"
+    ]
+    },
+    {
+    "part": "trunk",
+    "color": [
+    "green-brown",
+    "white-green"
+    ]
+    },
+    {
+    "part": "stem",
+    "color": [
+    "green-colored"
+    ]
+    },
+    {
+    "part": "veins",
+    "color": [
+    "light-green"
+    ]
+    }
+    ],
+    "sunlight": [
+    "Full sun",
+    "part shade"
+    ],
+    "pruning_month": [
+    "March",
+    "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=11&key=sk-dVrJ64b9339eba7161622",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": true,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Spring",
+    "flower_color": "Yellow",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+    "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Snakebark Maple (Acer davidii) is an amazing tree, beloved by gardeners. It features beautiful gills, which are handsomely striped with tiger-like markings. In the summer, its leaves turn to a bright golden hue and its bark remains smooth, with a distinctive mottled ash-gray coloration. Plant it in a sunny spot to take full advantage of its leaves, which are said to produce a calming effect. It is also low maintenance and very tolerant of the cold, surviving through temperatures as low as -25°F. With its stunning shape and amazing color, the Snakebark Maple is a wonderful addition to any landscape!",
+    "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/11_acer_davidii/og/6868591754_f4ac5b0510_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/11_acer_davidii/regular/6868591754_f4ac5b0510_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/11_acer_davidii/medium/6868591754_f4ac5b0510_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/11_acer_davidii/small/6868591754_f4ac5b0510_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/11_acer_davidii/thumbnail/6868591754_f4ac5b0510_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+  },
+  {
+    "common_name": "Amur Maple",
+    "scientific_name": [
+    "Acer ginnala"
+    ],
+    "other_name": [],
+    "family": null,
+    "origin": [
+    "China",
+    "North Korea",
+    "Russia",
+    "Mongolia"
+    ],
+    "type": "tree",
+    "dimension": "Height:  20 feet",
+    "dimensions": {
+    "type": "Height",
+    "min_value": 20,
+    "max_value": 20,
+    "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+    "Cutting",
+    "Grafting Propagation",
+    "Layering Propagation",
+    "Air Layering Propagation",
+    "Seed Propagation"
+    ],
+    "hardiness": {
+    "min": "2",
+    "max": "2"
+    },
+    "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=12&size=og&key=sk-dVrJ64b9339eba7161622",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=12&size=og&key=sk-dVrJ64b9339eba7161622'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+    "unit": "inch",
+    "value": "1"
+    },
+    "volume_water_requirement": [],
+    "watering_period": "morning",
+    "watering_general_benchmark": {
+    "value": null,
+    "unit": "days"
+    },
+    "plant_anatomy": [
+    {
+    "part": "leaves",
+    "color": [
+    "orange-pink",
+    "green"
+    ]
+    },
+    {
+    "part": "veins",
+    "color": [
+    "red",
+    "yellow"
+    ]
+    },
+    {
+    "part": "twigs",
+    "color": [
+    "dark-red",
+    "green"
+    ]
+    },
+    {
+    "part": "trunk",
+    "color": [
+    "silver"
+    ]
+    },
+    {
+    "part": "branches",
+    "color": [
+    "silver"
+    ]
+    },
+    {
+    "part": "seeds",
+    "color": [
+    "pink"
+    ]
+    }
+    ],
+    "sunlight": [
+    "full sun",
+    "part shade"
+    ],
+    "pruning_month": [
+    "February",
+    "February",
+    "March"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=12&key=sk-dVrJ64b9339eba7161622",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": true,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Moderate",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+    "green",
+    "red",
+    "yellow",
+    "orange"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Amur Maple is a beautiful and versatile species of tree that are perfect for any property. With its vibrant green buds and star-shaped leaves that turn yellow and orange in the autumn, this stunning tree makes for a spectacular backdrop in any yard or garden. Its dense growth provides ample shade and its smaller size means it won't take up too much space. The Amur Maple is also highly resilient, resistant to extreme temperatures and insect diseases and does well in most soils. This hardy and majestic tree will bring years of beauty to your lawn and garden.",
+    "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/12_acer_ginnala/og/10476032513_76ca899bc4_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/12_acer_ginnala/regular/10476032513_76ca899bc4_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/12_acer_ginnala/medium/10476032513_76ca899bc4_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/12_acer_ginnala/small/10476032513_76ca899bc4_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/12_acer_ginnala/thumbnail/10476032513_76ca899bc4_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+  },
+  {
+    "common_name": "Flame Amur Maple",
+    "scientific_name": [
+    "Acer ginnala 'Flame'"
+    ],
+    "other_name": [],
+    "family": null,
+    "origin": [
+    "China",
+    "North Korea",
+    "Russia",
+    "Japan"
+    ],
+    "type": "tree",
+    "dimension": "Height:  20 feet",
+    "dimensions": {
+    "type": "Height",
+    "min_value": 20,
+    "max_value": 20,
+    "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+    "Cutting",
+    "Grafting Propagation",
+    "Layering Propagation",
+    "Air Layering Propagation",
+    "Stooling",
+    "Root Division"
+    ],
+    "hardiness": {
+    "min": "3",
+    "max": "3"
+    },
+    "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=13&size=og&key=sk-dVrJ64b9339eba7161622",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=13&size=og&key=sk-dVrJ64b9339eba7161622'></iframe>"
+    },
+    "watering": "Frequent",
+    "depth_water_requirement": {
+    "unit": "inches",
+    "value": "6"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+    "value": "7-10",
+    "unit": "days"
+    },
+    "plant_anatomy": [
+    {
+    "part": "trunk",
+    "color": [
+    "brown"
+    ]
+    },
+    {
+    "part": "branches",
+    "color": [
+    "dark-brown"
+    ]
+    },
+    {
+    "part": "twigs",
+    "color": [
+    "dark-brown"
+    ]
+    },
+    {
+    "part": "leaves",
+    "color": [
+    "yellow-orange"
+    ]
+    }
+    ],
+    "sunlight": [
+    "full sun"
+    ],
+    "pruning_month": [
+    "February",
+    "March",
+    "April",
+    "May"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=13&key=sk-dVrJ64b9339eba7161622",
+    "soil": [],
+    "growth_rate": "High",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Moderate",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+    "red",
+    "orange"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Flame Amur Maple is an amazing plant species perfect for any landscape. It's small to medium size, with a mature height of 15 to 20 feet, makes it perfect for tight spaces in gardens, parks, or yards. Its bright orange-red buds make a striking statement in the spring, and its leaves are a beautiful deep green in summer. In fall, the foliage turns a striking array of red, yellow and orange colors giving a brilliant splash to the landscape. It's very hardy, tolerating most soil types, and can adapt to various climates, making it a great addition to any home garden.",
+    "default_image": {
+    "license": 451,
+    "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "original_url": "https://perenual.com/storage/species_image/13_acer_ginnala_flame/og/pexels-photo-1649190.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/13_acer_ginnala_flame/regular/pexels-photo-1649190.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/13_acer_ginnala_flame/medium/pexels-photo-1649190.jpg",
+    "small_url": "https://perenual.com/storage/species_image/13_acer_ginnala_flame/small/pexels-photo-1649190.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/13_acer_ginnala_flame/thumbnail/pexels-photo-1649190.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+  },
+  {
+    "common_name": "Red Rhapsody Amur Maple",
+    "scientific_name": [
+    "Acer ginnala 'Mondy'"
+    ],
+    "other_name": [],
+    "family": null,
+    "origin": [
+    "China"
+    ],
+    "type": "tree",
+    "dimension": "Height:  20 feet",
+    "dimensions": {
+    "type": "Height",
+    "min_value": 20,
+    "max_value": 20,
+    "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+    "Cutting",
+    "Grafting Propagation",
+    "Layering Propagation",
+    "Air Layering Propagation",
+    "Tissue Culture"
+    ],
+    "hardiness": {
+    "min": "2",
+    "max": "2"
+    },
+    "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=14&size=og&key=sk-dVrJ64b9339eba7161622",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=14&size=og&key=sk-dVrJ64b9339eba7161622'></iframe>"
+    },
+    "watering": "Frequent",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+    "value": "7-10",
+    "unit": "days"
+    },
+    "plant_anatomy": [
+    {
+    "part": "trunk",
+    "color": [
+    "dark-brown"
+    ]
+    },
+    {
+    "part": "branches",
+    "color": [
+    "dark-brown"
+    ]
+    },
+    {
+    "part": "leaves",
+    "color": [
+    "green-yellow"
+    ]
+    }
+    ],
+    "sunlight": [
+    "full sun",
+    "part shade"
+    ],
+    "pruning_month": [
+    "February",
+    "March",
+    "April"
+    ],
+    "pruning_count": {
+    "amount": 1,
+    "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=14&key=sk-dVrJ64b9339eba7161622",
+    "soil": [],
+    "growth_rate": "High",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Moderate",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+    "green",
+    "red",
+    "yellow",
+    "orange"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Red Rhapsody Amur Maple (Acer ginnala ‘Mondy’) is a stunning and unique addition to any garden. With its brilliant red foliage, this maple species is a captivating sight in the spring and fall. The tree is also not as large as other maple varieties, making it an ideal choice for small gardens and yards. It thrives in varied soil conditions and can survive temperatures down to -30F. This resilient tree can last for many years and provides welcome shade during the warm summer months. The Red Rhapsody Amur Maple is a stunning and unique tree for any garden and promises a vibrant splash of color throughout the entire year.",
+    "default_image": {
+    "license": 451,
+    "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "original_url": "https://perenual.com/storage/species_image/14_acer_ginnala_mondy/og/pexels-photo-1789879.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/14_acer_ginnala_mondy/regular/pexels-photo-1789879.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/14_acer_ginnala_mondy/medium/pexels-photo-1789879.jpg",
+    "small_url": "https://perenual.com/storage/species_image/14_acer_ginnala_mondy/small/pexels-photo-1789879.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/14_acer_ginnala_mondy/thumbnail/pexels-photo-1789879.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+  },
+  {
+    "common_name": "Ruby Slippers Amur Maple",
+    "scientific_name": [
+    "Acer ginnala 'Ruby Slippers'"
+    ],
+    "other_name": [],
+    "family": null,
+    "origin": [
+    "China"
+    ],
+    "type": "tree",
+    "dimension": "Height:  20 feet",
+    "dimensions": {
+    "type": "Height",
+    "min_value": 20,
+    "max_value": 20,
+    "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+    "Cutting",
+    "Grafting Propagation",
+    "Layering Propagation",
+    "Air Layering Propagation",
+    "Root Division"
+    ],
+    "hardiness": {
+    "min": "3",
+    "max": "3"
+    },
+    "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=15&size=og&key=sk-dVrJ64b9339eba7161622",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=15&size=og&key=sk-dVrJ64b9339eba7161622'></iframe>"
+    },
+    "watering": "Frequent",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+    "value": "7-10",
+    "unit": "days"
+    },
+    "plant_anatomy": [
+    {
+    "part": "trunks",
+    "color": [
+    "silver-green"
+    ]
+    },
+    {
+    "part": "branches",
+    "color": [
+    "silver-green"
+    ]
+    },
+    {
+    "part": "twigs",
+    "color": [
+    "silver-green"
+    ]
+    },
+    {
+    "part": "leaves",
+    "color": [
+    "yellow"
+    ]
+    }
+    ],
+    "sunlight": [
+    "full sun",
+    "part shade"
+    ],
+    "pruning_month": [
+    "May",
+    "June",
+    "July"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=15&key=sk-dVrJ64b9339eba7161622",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": null,
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+    "red",
+    "purple",
+    "ruby"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Ruby Slippers Amur Maple is an amazing plant species that can survive in extreme conditions. It has a unique vertical habit, clockwise foliage, and bright red stems which makes it a great ornamental tree. Its deep green summer foliage with a pattern of creamy white margins, plus its eye-catching red stem color in the fall and winter give this plant unique beauty. It is fast-growing and tolerates extreme heat, drought, and cold temperatures. It also thrives in a variety of soils and can handle little maintenance. So, Ruby Slippers Amur Maple is an amazing species to have in your garden, adding beauty and color all year round.",
+    "default_image": {
+    "license": 451,
+    "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "original_url": "https://perenual.com/storage/species_image/15_acer_ginnala_ruby_slippers/og/pexels-photo-1640820.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/15_acer_ginnala_ruby_slippers/regular/pexels-photo-1640820.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/15_acer_ginnala_ruby_slippers/medium/pexels-photo-1640820.jpg",
+    "small_url": "https://perenual.com/storage/species_image/15_acer_ginnala_ruby_slippers/small/pexels-photo-1640820.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/15_acer_ginnala_ruby_slippers/thumbnail/pexels-photo-1640820.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+  },
+  {
+    "common_name": "Paperbark Maple",
+    "scientific_name": [
+    "Acer griseum"
+    ],
+    "other_name": [],
+    "family": "Sapindaceae",
+    "origin": [
+    "Central and eastern China"
+    ],
+    "type": "tree",
+    "dimension": "Height:  30 feet",
+    "dimensions": {
+    "type": "Height",
+    "min_value": 30,
+    "max_value": 30,
+    "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+    "Seed Propagation",
+    "Greenwood Cuttings",
+    "Hardwood Cuttings"
+    ],
+    "hardiness": {
+    "min": "5",
+    "max": "5"
+    },
+    "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=16&size=og&key=sk-dVrJ64b9339eba7161622",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=16&size=og&key=sk-dVrJ64b9339eba7161622'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+    "unit": "inches",
+    "value": "2"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+    "value": "3-4",
+    "unit": "days"
+    },
+    "plant_anatomy": [
+    {
+    "part": "trunk",
+    "color": [
+    "brown"
+    ]
+    },
+    {
+    "part": "branches",
+    "color": [
+    "brown"
+    ]
+    },
+    {
+    "part": "leaves",
+    "color": [
+    "dark-green",
+    "light-green"
+    ]
+    }
+    ],
+    "sunlight": [
+    "Full sun",
+    "part shade"
+    ],
+    "pruning_month": [
+    "March",
+    "April",
+    "August",
+    "March",
+    "April",
+    "August"
+    ],
+    "pruning_count": {
+    "amount": 2,
+    "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=16&key=sk-dVrJ64b9339eba7161622",
+    "soil": [
+    "Acidic",
+    " Well-drained"
+    ],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+    "Galls",
+    " Heart rot",
+    " Mites",
+    " Root rot",
+    "  Pest resistant",
+    " Disease resistant "
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Spring",
+    "flower_color": "Green",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+    "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Paperbark Maple (Acer griseum) is a truly amazing tree. With its unique cinnamon-color bark that peels in thin layers and its delicate foliage, it is a sight to behold in any garden. In spring, the tree features delicate pink and white flowers. The foliage turns a copper-bronze color in the fall, making it a great ornamental tree year-round. Paperbark Maple is also low-maintenance and easy to grow, making it an ideal choice for a sheltered spot in your garden. It is also a great option for a screen near a patio or pool. The Paperbark Maple is a beautiful and versatile must-have for any garden.",
+    "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/16_acer_griseum/og/5158906371_ed08a86876_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/16_acer_griseum/regular/5158906371_ed08a86876_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/16_acer_griseum/medium/5158906371_ed08a86876_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/16_acer_griseum/small/5158906371_ed08a86876_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/16_acer_griseum/thumbnail/5158906371_ed08a86876_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+  },
+  {
+    "common_name": "Fullmoon Maple",
+    "scientific_name": [
+    "Acer japonicum"
+    ],
+    "other_name": [],
+    "family": "Sapindaceae",
+    "origin": [
+    "Japan",
+    "Kuril Islands"
+    ],
+    "type": "tree",
+    "dimension": "Height:  20 feet",
+    "dimensions": {
+    "type": "Height",
+    "min_value": 20,
+    "max_value": 20,
+    "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+    "Air Layering Propagation",
+    "Grafting Propagation",
+    "Cutting",
+    "Division",
+    "Seed Propagation"
+    ],
+    "hardiness": {
+    "min": "6",
+    "max": "6"
+    },
+    "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=17&size=og&key=sk-dVrJ64b9339eba7161622",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=17&size=og&key=sk-dVrJ64b9339eba7161622'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+    "unit": "inch",
+    "value": "1"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+    "value": "3-4",
+    "unit": "days"
+    },
+    "plant_anatomy": [
+    {
+    "part": "branches",
+    "color": [
+    "green-yellow"
+    ]
+    },
+    {
+    "part": "twigs",
+    "color": [
+    "green-yellow"
+    ]
+    },
+    {
+    "part": "leaves",
+    "color": [
+    "green"
+    ]
+    }
+    ],
+    "sunlight": [
+    "Full sun",
+    "part shade"
+    ],
+    "pruning_month": [
+    "February",
+    "March",
+    "April",
+    "May"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=17&key=sk-dVrJ64b9339eba7161622",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Spring",
+    "flower_color": "Purplish red",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+    "green",
+    "purple"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Fullmoon Maple is a spectacular deciduous shrub native to Japan, Korea and parts of China. It features an incredible round, bright yellow foliage in spring and summer that turns rich oranges and reds in the fall. Its unique shape gives it a wonderful presence in the garden, while its attractive bark is marked with orange and dark brown hues. For added attraction in the garden, the Fullmoon Maple is renowned for its stunning white flowers with yellow centers, which bloom from late spring until early summer. Its beautiful foliage, stunning flowers and interesting bark make the Fullmoon Maple an amazing garden addition for any landscape.",
+    "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/17_acer_japonicum/og/7175475239_52543c51b3_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/17_acer_japonicum/regular/7175475239_52543c51b3_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/17_acer_japonicum/medium/7175475239_52543c51b3_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/17_acer_japonicum/small/7175475239_52543c51b3_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/17_acer_japonicum/thumbnail/7175475239_52543c51b3_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+  },
+  {
+    "common_name": "Cutleaf Fullmoon Maple",
+    "scientific_name": [
+    "Acer japonicum 'Aconitifolium'"
+    ],
+    "other_name": [
+    "fernleaf full moon maple"
+    ],
+    "family": "Sapindaceae",
+    "origin": [
+    "S.E. Asia",
+    "Japan",
+    "China"
+    ],
+    "type": "tree",
+    "dimension": "Height:  20 feet",
+    "dimensions": {
+    "type": "Height",
+    "min_value": 20,
+    "max_value": 20,
+    "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+    "Cutting",
+    "Grafting Propagation"
+    ],
+    "hardiness": {
+    "min": "6",
+    "max": "6"
+    },
+    "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=18&size=og&key=sk-dVrJ64b9339eba7161622",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=18&size=og&key=sk-dVrJ64b9339eba7161622'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+    "unit": "",
+    "value": ""
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+    "value": "7-10",
+    "unit": "days"
+    },
+    "plant_anatomy": [
+    {
+    "part": "leaves",
+    "color": [
+    "green",
+    "orange-yellow-green"
+    ]
+    },
+    {
+    "part": "branches",
+    "color": [
+    "brown"
+    ]
+    },
+    {
+    "part": "trunk",
+    "color": [
+    "brown"
+    ]
+    },
+    {
+    "part": "twigs",
+    "color": [
+    "colored"
+    ]
+    }
+    ],
+    "sunlight": [
+    "Full sun",
+    "part shade"
+    ],
+    "pruning_month": [
+    "March",
+    "April",
+    "June",
+    "July",
+    "August"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=18&key=sk-dVrJ64b9339eba7161622",
+    "soil": [
+    "Humus rich",
+    " Well-drained"
+    ],
+    "growth_rate": "Moderate",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+    "Aphids",
+    "adelgids",
+    " Canker",
+    "sap rot",
+    " Caterpillar",
+    "cutworm",
+    " Fungal leaf spot",
+    " Galls",
+    " Heart rot",
+    " Mites",
+    " Root rot",
+    " Scale insects",
+    " Wilt"
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Spring",
+    "flower_color": "Purplish red",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+    "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Cutleaf Fullmoon Maple is one of nature's most beautiful trees. Its intricate, delicate leaves have deep lobes and unique lobing patterns- each one showing its own distinct character. Its light silvery-green foliage turns a golden yellow in fall. The Cutleaf Fullmoon Maple produces long, elegant branches with large, full flowers that shimmer in the moonlight. In spring, the foliage emerges in a brilliant array of soft pinks, whites, and yellows. This eye-catching display gives this tree its name- Cutleaf Fullmoon Maple. Combined with beautiful bark that takes on an attractive whitish hue, this tree is sure to be a stunning addition to any garden.",
+    "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/18_acer_japonicum_aconitifolium/og/23528789198_c419363323_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/18_acer_japonicum_aconitifolium/regular/23528789198_c419363323_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/18_acer_japonicum_aconitifolium/medium/23528789198_c419363323_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/18_acer_japonicum_aconitifolium/small/23528789198_c419363323_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/18_acer_japonicum_aconitifolium/thumbnail/23528789198_c419363323_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+  },
+  {
+    "common_name": "Attaryi Fullmoon Maple*",
+    "scientific_name": [
+    "Acer japonicum 'Attaryi'"
+    ],
+    "other_name": [],
+    "family": null,
+    "origin": [
+    "Japan"
+    ],
+    "type": "tree",
+    "dimension": "Height:  30 feet",
+    "dimensions": {
+    "type": "Height",
+    "min_value": 30,
+    "max_value": 30,
+    "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+    "Grafting Propagation",
+    "Cutting",
+    "Layering Propagation",
+    "Air Layering Propagation",
+    "Tissue Culture"
+    ],
+    "hardiness": {
+    "min": "6",
+    "max": "6"
+    },
+    "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=19&size=og&key=sk-dVrJ64b9339eba7161622",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=19&size=og&key=sk-dVrJ64b9339eba7161622'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+    "unit": "inches",
+    "value": "2"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+    "value": null,
+    "unit": "days"
+    },
+    "plant_anatomy": [
+    {
+    "part": "trunk",
+    "color": [
+    "brown"
+    ]
+    },
+    {
+    "part": "branches",
+    "color": [
+    "brown"
+    ]
+    },
+    {
+    "part": "leaves",
+    "color": [
+    "orange"
+    ]
+    }
+    ],
+    "sunlight": [
+    "full sun",
+    "part shade"
+    ],
+    "pruning_month": [
+    "February"
+    ],
+    "pruning_count": {
+    "amount": 1,
+    "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=19&key=sk-dVrJ64b9339eba7161622",
+    "soil": [],
+    "growth_rate": "High",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "High",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+    "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Attaryi Fullmoon Maple is an amazing ornamental tree that provides breathtaking visual impact throughout the year. Its young foliage emerges a bright pink hue in spring, fades to a golden yellow in summer and transforms to a spectacular burnt orange in autumn. This spectacular show, combined with the graceful weeping branches and deep mahogany bark, makes it an ideal focal point in outdoor landscapes. Attaryi Fullmoon Maple is also known for its drought tolerance, making it an adaptable choice for gardeners of all levels. Best of all, its ability to thrive in just about any soil and pH makes it an excellent addition to any garden.",
+    "default_image": {
+    "license": 451,
+    "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "original_url": "https://perenual.com/storage/species_image/19_acer_japonicum_attaryi/og/pexels-photo-669323.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/19_acer_japonicum_attaryi/regular/pexels-photo-669323.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/19_acer_japonicum_attaryi/medium/pexels-photo-669323.jpg",
+    "small_url": "https://perenual.com/storage/species_image/19_acer_japonicum_attaryi/small/pexels-photo-669323.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/19_acer_japonicum_attaryi/thumbnail/pexels-photo-669323.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+  },
+  {
+    "common_name": "Golden Fullmoon Maple",
+    "scientific_name": [
+    "Acer japonicum 'Aureum'"
+    ],
+    "other_name": [],
+    "family": null,
+    "origin": [
+    "Japan"
+    ],
+    "type": "tree",
+    "dimension": "Height:  20 feet",
+    "dimensions": {
+    "type": "Height",
+    "min_value": 20,
+    "max_value": 20,
+    "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+    "Air Layering Propagation",
+    "Grafting Propagation",
+    "Cutting",
+    "Division",
+    "Seed Propagation"
+    ],
+    "hardiness": {
+    "min": "6",
+    "max": "6"
+    },
+    "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=20&size=og&key=sk-dVrJ64b9339eba7161622",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=20&size=og&key=sk-dVrJ64b9339eba7161622'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+    "unit": "inches",
+    "value": "2"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+    "value": "7-10",
+    "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+    "full sun",
+    "part shade"
+    ],
+    "pruning_month": [
+    "February",
+    "March",
+    "April",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=20&key=sk-dVrJ64b9339eba7161622",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+    "gold",
+    "yellow"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Golden Fullmoon Maple is an amazing plant species due to its dazzling yellow-gold leaves, which scintillate in the sun. This tree is a sight to behold, especially in autumn, when the leaves turn a richer golden color. Its bark is smooth and light in color and its branches are gently curved and attractively shaped. This species of maple is easy to grow and thrives in full sun or partial shade, along with well-drained, fertile soil. It is also resistant to most pests and diseases, making it an ideal choice for the garden or backyard. With its graceful form and beautiful leaves, the Golden Fullmoon Maple is truly a stand-out in the landscape.",
+    "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/20_acer_japonicum_aureum/og/2560px-Acer_shirasawanum_27Aureum27.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/20_acer_japonicum_aureum/regular/2560px-Acer_shirasawanum_27Aureum27.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/20_acer_japonicum_aureum/medium/2560px-Acer_shirasawanum_27Aureum27.jpg",
+    "small_url": "https://perenual.com/storage/species_image/20_acer_japonicum_aureum/small/2560px-Acer_shirasawanum_27Aureum27.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/20_acer_japonicum_aureum/thumbnail/2560px-Acer_shirasawanum_27Aureum27.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
   }
 ]
