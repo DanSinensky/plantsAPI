@@ -13,11 +13,11 @@ export const getPlants = async (req, res) => {
 export const getPlant = async (req, res) => {
   try {
     const { id } = req.params;
-    // const plant = await Plant.findById(id).populate("members");
+    const plant = await Plant.findById(id).populate("plant");
 
-    // if (plant) {
-    //   return res.json(plant);
-    // }
+    if (plant) {
+      return res.json(plant);
+    }
 
     res.status(404).json({ message: "Plant not found!" });
   } catch (error) {
