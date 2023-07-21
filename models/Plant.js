@@ -34,7 +34,7 @@ let Plant = new Schema({
 "full_iframe": { type: String }
 },
 "watering": { type: String },
-  "depth_water_requirement": [],
+"depth_water_requirement": [],
 "volume_water_requirement": [],
 "watering_period": { type: String },
 "watering_general_benchmark": {
