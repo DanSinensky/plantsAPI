@@ -2701,5 +2701,1242 @@
     "thumbnail": "https://perenual.com/storage/species_image/20_acer_japonicum_aureum/thumbnail/2560px-Acer_shirasawanum_27Aureum27.jpg"
     },
     "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+  },
+  {
+    "common_name": "Emmett's Pumpkin Fullmoon Maple",
+    "scientific_name": [
+    "Acer japonicum 'Emmett's Pumpkin'"
+    ],
+    "other_name": [],
+    "family": null,
+    "origin": [
+    "Japan"
+    ],
+    "type": "tree",
+    "dimension": "Height:  20 feet",
+    "dimensions": {
+    "type": "Height",
+    "min_value": 20,
+    "max_value": 20,
+    "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+    "Grafting Propagation",
+    "Cutting",
+    "Layering Propagation",
+    "Air Layering Propagation",
+    "Tissue Culture"
+    ],
+    "hardiness": {
+    "min": "6",
+    "max": "6"
+    },
+    "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=21&size=og&key=sk-dVrJ64b9339eba7161622",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=21&size=og&key=sk-dVrJ64b9339eba7161622'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+    "value": null,
+    "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+    "full sun",
+    "part shade",
+    "filtered shade"
+    ],
+    "pruning_month": [
+    "March",
+    "April",
+    "May",
+    "June",
+    "July"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=21&key=sk-dVrJ64b9339eba7161622",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": null,
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+    "red",
+    "yellow",
+    "orange"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Emmett's Pumpkin Fullmoon Maple is an amazing deciduous tree species that is known for its beautiful foliage. It has dark green, almost bronze-colored leaves that turn a deep orange-red in the fall. In the summertime, it has clusters of yellow-orange flowers, and in the winter it features small, red seed plumes. It grows in a pleasing, rounded shape and reaches heights up to 25 feet, providing year-round beauty to any landscape. It is a great choice for gardeners who are looking for a unique tree that provides stunning colors throughout the seasons.",
+    "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/21_acer_japonicum_emmetts_pumpkin/og/Acer_shirasawanum_28golden_fullmoon_maple29_2_284633285838129.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/21_acer_japonicum_emmetts_pumpkin/regular/Acer_shirasawanum_28golden_fullmoon_maple29_2_284633285838129.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/21_acer_japonicum_emmetts_pumpkin/medium/Acer_shirasawanum_28golden_fullmoon_maple29_2_284633285838129.jpg",
+    "small_url": "https://perenual.com/storage/species_image/21_acer_japonicum_emmetts_pumpkin/small/Acer_shirasawanum_28golden_fullmoon_maple29_2_284633285838129.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/21_acer_japonicum_emmetts_pumpkin/thumbnail/Acer_shirasawanum_28golden_fullmoon_maple29_2_284633285838129.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+  },
+  {
+    "common_name": "Green Cascade Maple",
+    "scientific_name": [
+    "Acer japonicum 'Green Cascade'"
+    ],
+    "other_name": [],
+    "family": "Sapindaceae",
+    "origin": [
+    "Japan"
+    ],
+    "type": "tree",
+    "dimension": "Height:  30 feet",
+    "dimensions": {
+    "type": "Height",
+    "min_value": 30,
+    "max_value": 30,
+    "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+    "Air Layering Propagation",
+    "Grafting Propagation",
+    "Cutting",
+    "Division",
+    "Seed Propagation"
+    ],
+    "hardiness": {
+    "min": "6",
+    "max": "6"
+    },
+    "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=22&size=og&key=sk-dVrJ64b9339eba7161622",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=22&size=og&key=sk-dVrJ64b9339eba7161622'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+    "unit": "inches",
+    "value": "2"
+    },
+    "volume_water_requirement": [],
+    "watering_period": "night",
+    "watering_general_benchmark": {
+    "value": "7-10",
+    "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+    "Full sun",
+    "part shade"
+    ],
+    "pruning_month": [
+    "February",
+    "March",
+    "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=22&key=sk-dVrJ64b9339eba7161622",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Spring",
+    "flower_color": "Purplish-red",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+    "bronze",
+    "green"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Green Cascade Maple (Acer japonicum 'Green Cascade') is an amazing plant with stunning features. It has a unique cascading form which means it is slightly wider at the base and gradually narrows as it grows taller. The foliage of this tree is deep green with reddish-tinged edges in the spring and summer, transforming to a deep yellow-green in autumn. This foliage provides a beautiful contrast with the bark which is grey-brown with a light orange tone. The Green Cascade Maple is an excellent choice for a specimen tree or to provide a natural screen. It's versatile, easy to care for, and provides stunning visual appeal all year round.",
+    "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/22_acer_japonicum_green_cascade/og/4847225395_2509ee2bfe_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/22_acer_japonicum_green_cascade/regular/4847225395_2509ee2bfe_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/22_acer_japonicum_green_cascade/medium/4847225395_2509ee2bfe_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/22_acer_japonicum_green_cascade/small/4847225395_2509ee2bfe_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/22_acer_japonicum_green_cascade/thumbnail/4847225395_2509ee2bfe_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+  },
+  {
+    "common_name": "Big Leaf Maple",
+    "scientific_name": [
+    "Acer macrophyllum"
+    ],
+    "other_name": [
+    "Oregon Maple"
+    ],
+    "family": "Sapindaceae",
+    "origin": [
+    "British Columbia",
+    "California",
+    "Oregon",
+    "Washington"
+    ],
+    "type": "tree",
+    "dimension": "Height:  60 feet",
+    "dimensions": {
+    "type": "Height",
+    "min_value": 60,
+    "max_value": 60,
+    "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+    "Squirrels",
+    " Bees"
+    ],
+    "propagation": [
+    "Seed Propagation"
+    ],
+    "hardiness": {
+    "min": "6",
+    "max": "6"
+    },
+    "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=23&size=og&key=sk-dVrJ64b9339eba7161622",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=23&size=og&key=sk-dVrJ64b9339eba7161622'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": {
+    "unit": "gallons",
+    "value": "5"
+    },
+    "watering_period": null,
+    "watering_general_benchmark": {
+    "value": null,
+    "unit": "days"
+    },
+    "plant_anatomy": [
+    {
+    "part": "leaf",
+    "color": [
+    "light-green"
+    ]
+    },
+    {
+    "part": "veins",
+    "color": [
+    "dark-green",
+    "light-green"
+    ]
+    },
+    {
+    "part": "stem",
+    "color": [
+    "brown"
+    ]
+    },
+    {
+    "part": "leaves",
+    "color": [
+    "green"
+    ]
+    },
+    {
+    "part": "stems",
+    "color": [
+    "green"
+    ]
+    }
+    ],
+    "sunlight": [
+    "full sun",
+    "part sun/part shade"
+    ],
+    "pruning_month": [
+    "February",
+    "March",
+    "April",
+    "May",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=23&key=sk-dVrJ64b9339eba7161622",
+    "soil": [
+    "Sandy Loamy"
+    ],
+    "growth_rate": "Moderate",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+    "Fungal leaf spot",
+    " Heart rot",
+    " Mildew",
+    "  Pest resistant",
+    " Disease resistant "
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Spring",
+    "flower_color": "Greenish-yellow",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+    "green",
+    "red",
+    "yellow",
+    "orange"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+    "green",
+    "red",
+    "yellow",
+    "orange"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Big Leaf Maple (Acer macrophyllum) is an amazing species of maple tree. It is native to western North America, growing up to 100 feet tall in some areas. Its leaves are extremely large, reaching up to a foot in width and length, and are a brilliant green in the summer months. In autumn, the leaves turn a stunning yellow, orange, or even a mix of the two. Big Leaf Maple is prized for its hard wood, making it popular for many furniture and flooring options. Its impressive size, vibrant color, and useful timber make it a truly amazing tree species.",
+    "default_image": {
+    "license": 4,
+    "license_name": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/23_acer_macrophyllum/og/52135137216_8a124b5188_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/23_acer_macrophyllum/regular/52135137216_8a124b5188_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/23_acer_macrophyllum/medium/52135137216_8a124b5188_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/23_acer_macrophyllum/small/52135137216_8a124b5188_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/23_acer_macrophyllum/thumbnail/52135137216_8a124b5188_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+  },
+  {
+    "common_name": "Mocha Rose Big Leaf Maple",
+    "scientific_name": [
+    "Acer macrophyllum 'Mocha Rose'"
+    ],
+    "other_name": [
+    "Oregon Maple"
+    ],
+    "family": "Sapindaceae",
+    "origin": [
+    "British Columbia",
+    "California",
+    "Oregon",
+    "Washington"
+    ],
+    "type": "tree",
+    "dimension": "Height:  60 feet",
+    "dimensions": {
+    "type": "Height",
+    "min_value": 60,
+    "max_value": 60,
+    "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+    "Squirrels",
+    " Bees"
+    ],
+    "propagation": [
+    "Seed Propagation"
+    ],
+    "hardiness": {
+    "min": "6",
+    "max": "6"
+    },
+    "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=24&size=og&key=sk-dVrJ64b9339eba7161622",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=24&size=og&key=sk-dVrJ64b9339eba7161622'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+    "unit": "inches",
+    "value": "5"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+    "value": "7-10",
+    "unit": "days"
+    },
+    "plant_anatomy": [
+    {
+    "part": "leaf",
+    "color": [
+    "light-green",
+    "green"
+    ]
+    },
+    {
+    "part": "veins",
+    "color": [
+    "light-green",
+    "green"
+    ]
+    },
+    {
+    "part": "stem",
+    "color": [
+    "red"
+    ]
+    },
+    {
+    "part": "branch",
+    "color": [
+    "brown"
+    ]
+    }
+    ],
+    "sunlight": [
+    "full sun",
+    "part shade"
+    ],
+    "pruning_month": [
+    "February",
+    "March",
+    "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=24&key=sk-dVrJ64b9339eba7161622",
+    "soil": [
+    "Sandy Loamy"
+    ],
+    "growth_rate": "Moderate",
+    "drought_tolerant": true,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+    "Fungal leaf spot",
+    " Heart rot",
+    " Mildew",
+    "  Pest resistant",
+    " Disease resistant "
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Spring",
+    "flower_color": "Greenish-yellow",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+    "red",
+    "purple"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Mocha Rose Big Leaf Maple is an amazing plant species for many reasons. It has lush glossy green foliage with deeply lobed leaves that are edged in pink, giving this tree a stunning look that is unlike any other. It also enjoys sun, but is tolerant of partial shade and can tolerate most soil types and moisture conditions. Its ability to thrive in a range of environments and climates makes it an excellent choice for gardeners. In addition to its eye-catching foliage, this maple also produces small flowers in the spring, providing a great source of nectar for pollinators. Overall, Mocha Rose Big Leaf Maple is an exquisite and unparalleled choice for any garden.",
+    "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/24_acer_macrophyllum_mocha_rose/og/4715169892_220a9d39f6_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/24_acer_macrophyllum_mocha_rose/regular/4715169892_220a9d39f6_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/24_acer_macrophyllum_mocha_rose/medium/4715169892_220a9d39f6_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/24_acer_macrophyllum_mocha_rose/small/4715169892_220a9d39f6_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/24_acer_macrophyllum_mocha_rose/thumbnail/4715169892_220a9d39f6_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+  },
+  {
+    "common_name": "Flamingo Boxelder",
+    "scientific_name": [
+    "Acer negundo 'Flamingo'"
+    ],
+    "other_name": [
+    "Manitoba Maple",
+    "box elder"
+    ],
+    "family": "Sapindaceae",
+    "origin": [
+    "Central and North America"
+    ],
+    "type": "tree",
+    "dimension": "Height:  25 feet",
+    "dimensions": {
+    "type": "Height",
+    "min_value": 25,
+    "max_value": 25,
+    "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+    "Air Layering Propagation",
+    "Grafting Propagation",
+    "Cutting",
+    "Division",
+    "Seed Propagation"
+    ],
+    "hardiness": {
+    "min": "6",
+    "max": "6"
+    },
+    "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=25&size=og&key=sk-dVrJ64b9339eba7161622",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=25&size=og&key=sk-dVrJ64b9339eba7161622'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+    "unit": "inches",
+    "value": "2"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+    "value": null,
+    "unit": "days"
+    },
+    "plant_anatomy": [
+    {
+    "part": "leaves",
+    "color": [
+    "green-white"
+    ]
+    },
+    {
+    "part": "stem",
+    "color": [
+    "brown"
+    ]
+    },
+    {
+    "part": "trunk",
+    "color": [
+    "silver"
+    ]
+    },
+    {
+    "part": "branches",
+    "color": [
+    "silver"
+    ]
+    },
+    {
+    "part": "twigs",
+    "color": [
+    "green"
+    ]
+    }
+    ],
+    "sunlight": [
+    "full sun",
+    "part sun/part shade"
+    ],
+    "pruning_month": [
+    "March",
+    "April",
+    "May"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=25&key=sk-dVrJ64b9339eba7161622",
+    "soil": [
+    "Sandy Loamy Clay"
+    ],
+    "growth_rate": "Low",
+    "drought_tolerant": true,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+    "Anthracnose",
+    " Canker",
+    "sap rot",
+    " Mildew",
+    " Stem borer insects",
+    "  Drought resistant "
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Greenish yellow",
+    "cones": true,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+    "green",
+    "yellow",
+    "pink"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Flamingo Boxelder is an amazing and eye-catching tree variety that adds a unique flair to any garden. It’s an elegant and graceful accent tree, with striking, feathery, pink and white foliage and bright pink seedpods in the Autumn. Its heart-shaped leaves are also great for wildlife and provide a natural habitat for birds. In addition to its ornamental beauty, this fast-growing and hardy tree is also quite tough and resistant to disease, pests, and drought. Perfect for small gardens, containers, and street trees, this stunning tree is sure to add a playful and vibrant touch to any outdoor space.",
+    "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/25_acer_negundo_flamingo/og/5867345385_a9dff5bee7_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/25_acer_negundo_flamingo/regular/5867345385_a9dff5bee7_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/25_acer_negundo_flamingo/medium/5867345385_a9dff5bee7_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/25_acer_negundo_flamingo/small/5867345385_a9dff5bee7_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/25_acer_negundo_flamingo/thumbnail/5867345385_a9dff5bee7_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+  },
+  {
+    "common_name": "Kelly's Gold Boxelder",
+    "scientific_name": [
+    "Acer negundo 'Kelly's Gold'"
+    ],
+    "other_name": [
+    "Manitoba Maple",
+    "box elder"
+    ],
+    "family": "Sapindaceae",
+    "origin": [
+    "Central and North America"
+    ],
+    "type": "tree",
+    "dimension": "Height:  25 feet",
+    "dimensions": {
+    "type": "Height",
+    "min_value": 25,
+    "max_value": 25,
+    "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+    "Cutting",
+    "Grafting Propagation",
+    "Layering Propagation",
+    "Air Layering Propagation",
+    "Root Division"
+    ],
+    "hardiness": {
+    "min": "6",
+    "max": "6"
+    },
+    "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=26&size=og&key=sk-dVrJ64b9339eba7161622",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=26&size=og&key=sk-dVrJ64b9339eba7161622'></iframe>"
+    },
+    "watering": "Frequent",
+    "depth_water_requirement": [],
+    "volume_water_requirement": {
+    "unit": "gallons",
+    "value": "2"
+    },
+    "watering_period": null,
+    "watering_general_benchmark": {
+    "value": null,
+    "unit": "days"
+    },
+    "plant_anatomy": [
+    {
+    "part": "branches",
+    "color": [
+    "dark-brown"
+    ]
+    },
+    {
+    "part": "twigs",
+    "color": [
+    "brown"
+    ]
+    },
+    {
+    "part": "stems",
+    "color": [
+    "green"
+    ]
+    },
+    {
+    "part": "leaves",
+    "color": [
+    "green"
+    ]
+    }
+    ],
+    "sunlight": [
+    "full sun",
+    "part sun/part shade"
+    ],
+    "pruning_month": [
+    "March",
+    "April",
+    "May"
+    ],
+    "pruning_count": {
+    "amount": 1,
+    "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=26&key=sk-dVrJ64b9339eba7161622",
+    "soil": [
+    "Sandy Loamy Clay"
+    ],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": true,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": null,
+    "pest_susceptibility": [
+    "Anthracnose",
+    " Canker",
+    "sap rot",
+    " Mildew",
+    " Stem borer insects",
+    "  Drought resistant "
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": null,
+    "flower_color": "Greenish yellow",
+    "cones": true,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+    "gold",
+    "yellow"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Kelly's Gold Boxelder is a spectacular tree with many amazing features. Its large ovate leaves are edged with a creamy yellow border that contrasts brilliantly with its dark green center. In spring, showy yellow and red flowers promote the growth of large clusters of dark red fruits in autumn. This tree is also a hardy species that is fairly drought tolerant, and can thrive in both sun and partial shade. Beyond its beauty, it also provides excellent shade, being a fast-growing, large tree. Its vibrant leaves create an eye-catching focal point in any landscape setting. Kelly's Gold Boxelder is the ideal tree for any outdoor space.",
+    "default_image": {
+    "license": 5,
+    "license_name": "Attribution-ShareAlike License",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_url": "https://perenual.com/storage/species_image/26_acer_negundo_kellys_gold/og/28819730054_e2a2b797c9_b.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/26_acer_negundo_kellys_gold/regular/28819730054_e2a2b797c9_b.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/26_acer_negundo_kellys_gold/medium/28819730054_e2a2b797c9_b.jpg",
+    "small_url": "https://perenual.com/storage/species_image/26_acer_negundo_kellys_gold/small/28819730054_e2a2b797c9_b.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/26_acer_negundo_kellys_gold/thumbnail/28819730054_e2a2b797c9_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+  },
+  {
+    "common_name": "Japanese Maple",
+    "scientific_name": [
+    "Acer palmatum"
+    ],
+    "other_name": [],
+    "family": "Sapindaceae",
+    "origin": [
+    "Korea",
+    "Japan"
+    ],
+    "type": "tree",
+    "dimension": "Height:  20 feet",
+    "dimensions": {
+    "type": "Height",
+    "min_value": 20,
+    "max_value": 20,
+    "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+    "Air Layering Propagation",
+    "Grafting Propagation",
+    "Cutting",
+    "Seed Propagation"
+    ],
+    "hardiness": {
+    "min": "6",
+    "max": "6"
+    },
+    "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=27&size=og&key=sk-dVrJ64b9339eba7161622",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=27&size=og&key=sk-dVrJ64b9339eba7161622'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": "morning",
+    "watering_general_benchmark": {
+    "value": null,
+    "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+    "Full sun",
+    "part shade"
+    ],
+    "pruning_month": [
+    "February",
+    "March",
+    "April"
+    ],
+    "pruning_count": [],
+    "seeds": 1,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=27&key=sk-dVrJ64b9339eba7161622",
+    "soil": [
+    "Well-drained"
+    ],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Moderate",
+    "pest_susceptibility": [
+    "Anthracnose",
+    " Canker",
+    "sap rot",
+    " Caterpillar",
+    "cutworm",
+    " Mildew",
+    " Wilt",
+    "  Pest resistant",
+    " Disease resistant",
+    " Rabbit resistant "
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Spring",
+    "flower_color": "Reddish-purple",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+    "green",
+    "red",
+    "yellow",
+    "purple",
+    "orange",
+    "maroon",
+    "burgundy"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+    "green",
+    "red",
+    "yellow",
+    "purple",
+    "orange"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": true,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Japanese Maple, or Acer Palmatum, is a beautiful small tree and an amazing addition to any landscape. Its delicate foliage offers an incredible range of colors, from vibrant reds to deep greens throughout the growing season. In the fall, its leaves turn yellow and oranges, and finally bronze. With its intricate branches and vibrant colors, it is a sight to behold. This species is also preferred for its versatility, as it grows well in both container gardens and in large outdoor spaces. Its petite size makes it an ideal choice for a variety of settings, making it a great all-around choice for any garden.",
+    "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/27_acer_palmatum/og/2560px-Acer_palmatum_27Bloodgood27_kz01.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/27_acer_palmatum/regular/2560px-Acer_palmatum_27Bloodgood27_kz01.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/27_acer_palmatum/medium/2560px-Acer_palmatum_27Bloodgood27_kz01.jpg",
+    "small_url": "https://perenual.com/storage/species_image/27_acer_palmatum/small/2560px-Acer_palmatum_27Bloodgood27_kz01.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/27_acer_palmatum/thumbnail/2560px-Acer_palmatum_27Bloodgood27_kz01.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+  },
+  {
+    "common_name": "Aka Shigitatsu Sawa Japanese Maple",
+    "scientific_name": [
+    "Acer palmatum 'Aka Shigitatsu Sawa'"
+    ],
+    "other_name": [
+    "Samurai"
+    ],
+    "family": null,
+    "origin": [
+    "Japan"
+    ],
+    "type": "tree",
+    "dimension": "Height:  8 feet",
+    "dimensions": {
+    "type": "Height",
+    "min_value": 8,
+    "max_value": 8,
+    "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+    "Grafting Propagation",
+    "Cutting",
+    "Layering Propagation",
+    "Air Layering Propagation",
+    "Tissue Culture"
+    ],
+    "hardiness": {
+    "min": "6",
+    "max": "6"
+    },
+    "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=28&size=og&key=sk-dVrJ64b9339eba7161622",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=28&size=og&key=sk-dVrJ64b9339eba7161622'></iframe>"
+    },
+    "watering": "Frequent",
+    "depth_water_requirement": {
+    "unit": "feet",
+    "value": "2"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+    "value": "3-4",
+    "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+    "part sun/part shade"
+    ],
+    "pruning_month": [
+    "February",
+    "March",
+    "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=28&key=sk-dVrJ64b9339eba7161622",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+    "green",
+    "red",
+    "yellow",
+    "purple",
+    "orange"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Aka Shigitatsu Sawa Japanese Maple is an amazing tree sure to stand out in any garden. Its spectacular foliage consists of deeply lobed, bright green leaves that turn a brilliant orange-red in the fall. The tree itself has a compact growth habit, with an upright and symmetrical silhouette. It can withstand extreme temperatures, making it ideal for colder climate gardens. Additionally, it requires minimal pruning and is pest and disease resistant. The Aka Shigitatsu Sawa Japanese Maple truly is a stunning addition to any garden and is sure to be the centerpiece of any landscape.",
+    "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/28_acer_palmatum_aka_shigitatsu_sawa/og/Acer_palmatum_Aka_shigitatsu_sawa_2zz.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/28_acer_palmatum_aka_shigitatsu_sawa/regular/Acer_palmatum_Aka_shigitatsu_sawa_2zz.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/28_acer_palmatum_aka_shigitatsu_sawa/medium/Acer_palmatum_Aka_shigitatsu_sawa_2zz.jpg",
+    "small_url": "https://perenual.com/storage/species_image/28_acer_palmatum_aka_shigitatsu_sawa/small/Acer_palmatum_Aka_shigitatsu_sawa_2zz.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/28_acer_palmatum_aka_shigitatsu_sawa/thumbnail/Acer_palmatum_Aka_shigitatsu_sawa_2zz.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+  },
+  {
+    "common_name": "Alpenweiss Variegated Dwarf Japanese Maple*",
+    "scientific_name": [
+    "Acer palmatum 'Alpenweiss'"
+    ],
+    "other_name": [],
+    "family": null,
+    "origin": [
+    "Japan"
+    ],
+    "type": "tree",
+    "dimension": "Height:  12 feet",
+    "dimensions": {
+    "type": "Height",
+    "min_value": 12,
+    "max_value": 12,
+    "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+    "Grafting Propagation",
+    "Layering Propagation",
+    "Cutting",
+    "Air Layering Propagation",
+    "Root Division"
+    ],
+    "hardiness": {
+    "min": "7",
+    "max": "7"
+    },
+    "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=29&size=og&key=sk-dVrJ64b9339eba7161622",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=29&size=og&key=sk-dVrJ64b9339eba7161622'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+    "unit": "inches",
+    "value": "3"
+    },
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+    "value": null,
+    "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+    "full sun",
+    "part shade"
+    ],
+    "pruning_month": [
+    "March",
+    "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=29&key=sk-dVrJ64b9339eba7161622",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": null,
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+    "green",
+    "white"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Acer palmatum 'Alpenweiss' is an amazing dwarf Japanese maple species with uniquely variegated leaves. This small tree has a low and spreading habit, making it perfect for a variety of garden settings. Throughout spring and summer, its foliage is a delightful mix of cream and white hues, slowly turning deeper shades of yellow and orange with the arrival of autumn. In addition to its beautiful foliage, it produces small, dainty flowers of pink and red during the spring months. As its small size requires no pruning, the Acer palmatum 'Alpenweiss' makes a low maintenance accent to many landscape designs.",
+    "default_image": null,
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+  },
+  {
+    "common_name": "Ao Shime No Uchi Japanese Maple",
+    "scientific_name": [
+    "Acer palmatum 'Ao Shime No Uchi'"
+    ],
+    "other_name": [],
+    "family": null,
+    "origin": [
+    "Japan"
+    ],
+    "type": "tree",
+    "dimension": "Height:  10 feet",
+    "dimensions": {
+    "type": "Height",
+    "min_value": 10,
+    "max_value": 10,
+    "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [],
+    "propagation": [
+    "Air Layering Propagation",
+    "Grafting Propagation",
+    "Cutting",
+    "Seed Propagation"
+    ],
+    "hardiness": {
+    "min": "6",
+    "max": "6"
+    },
+    "hardiness_location": {
+    "full_url": "https://perenual.com/api/hardiness-map?species_id=30&size=og&key=sk-dVrJ64b9339eba7161622",
+    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=30&size=og&key=sk-dVrJ64b9339eba7161622'></iframe>"
+    },
+    "watering": "Frequent",
+    "depth_water_requirement": [],
+    "volume_water_requirement": [],
+    "watering_period": null,
+    "watering_general_benchmark": {
+    "value": "7-10",
+    "unit": "days"
+    },
+    "plant_anatomy": [],
+    "sunlight": [
+    "full sun",
+    "part shade"
+    ],
+    "pruning_month": [
+    "February",
+    "March",
+    "April"
+    ],
+    "pruning_count": [],
+    "seeds": 0,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=30&key=sk-dVrJ64b9339eba7161622",
+    "soil": [],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+    "green",
+    "red",
+    "yellow",
+    "purple",
+    "orange"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Ao Shime No Uchi Japanese Maple (Acer palmatum 'Ao Shime No Uchi') is a stunning plant, with a profusion of eye-catching colors. Its history dates back to Japan, where it is still highly popular. The cascading leaves display an array of colors—from bright pink in spring, turning into light green and yellow in summer, then shades of cream and golden yellow in autumn. During the summer, the naturally compact growth and foliage of this dwarf tree create an enchanting feature in your garden. With striking beauty and an irresistible shape to its leaves, it is no wonder why Ao Shime No Uchi Japanese Maple is such an amazing addition to any garden.",
+    "default_image": {
+    "license": 45,
+    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "original_url": "https://perenual.com/storage/species_image/30_acer_palmatum_ao_shime_no_uchi/og/Acer_palmatum_Ao_shime_no_uchi_3zz.jpg",
+    "regular_url": "https://perenual.com/storage/species_image/30_acer_palmatum_ao_shime_no_uchi/regular/Acer_palmatum_Ao_shime_no_uchi_3zz.jpg",
+    "medium_url": "https://perenual.com/storage/species_image/30_acer_palmatum_ao_shime_no_uchi/medium/Acer_palmatum_Ao_shime_no_uchi_3zz.jpg",
+    "small_url": "https://perenual.com/storage/species_image/30_acer_palmatum_ao_shime_no_uchi/small/Acer_palmatum_Ao_shime_no_uchi_3zz.jpg",
+    "thumbnail": "https://perenual.com/storage/species_image/30_acer_palmatum_ao_shime_no_uchi/thumbnail/Acer_palmatum_Ao_shime_no_uchi_3zz.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
   }
 ]
