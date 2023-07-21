@@ -55,43 +55,43 @@ export const deletePlant = async (req, res) => {
 };
 
 export const getDroughtTolerant = async (req, res) => {
-  let droughtTolerant = await Plant.find({ "drought_tolerant": true });
+  let droughtTolerant = await Plant.find({ "drought_tolerant": req.params.drought_tolerant });
 
   res.json(droughtTolerant)
 };
 
 export const getSaltTolerant = async (req, res) => {
-  let saltTolerant = await Plant.find({ "salt_tolerant": true });
+  let saltTolerant = await Plant.find({ "salt_tolerant": req.params.salt_tolerant });
 
   res.json(saltTolerant)
 };
 
 export const getThorny = async (req, res) => {
-  let thorny = await Plant.find({ "thorny": true });
+  let thorny = await Plant.find({ "thorny": req.params.thorny });
 
   res.json(thorny)
 };
 
 export const getInvasive = async (req, res) => {
-  let invasive = await Plant.find({ "invasive": true });
+  let invasive = await Plant.find({ "invasive": req.params.invasive });
 
   res.json(invasive)
 };
 
 export const getTropical = async (req, res) => {
-  let tropical = await Plant.find({ "tropical": true });
+  let tropical = await Plant.find({ "tropical": req.params.tropical });
 
   res.json(tropical)
 };
 
 export const getIndoor = async (req, res) => {
-  let indoor = await Plant.find({ "indoor": true });
+  let indoor = await Plant.find({ "indoor": req.params.indoor });
 
   res.json(indoor)
 };
 
 export const getLeaf = async (req, res) => {
-  let leaf = await Plant.find({ "leaf": true })
+  let leaf = await Plant.find({ "leaf": req.params.leaf })
 
   res.json(leaf)
 };
@@ -103,7 +103,7 @@ export const getLeafColor = async (req, res) => {
 };
 
 export const getEdibleLeaf = async (req, res) => {
-  let edibleLeaf = await Plant.find({ "edible_leaf": true })
+  let edibleLeaf = await Plant.find({ "edible_leaf": req.params.edible_leaf })
 
   res.json(edibleLeaf)
 };
