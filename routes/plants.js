@@ -6,6 +6,9 @@ const router = Router();
 router.get("/", controllers.getPlants);
 router.get("/origin/:origin", controllers.getOrigin);
 router.get("/watering/:watering", controllers.getNeedsWatering);
+router.get("/leaf", controllers.getLeaf);
+router.get("/leaf/:leaf_color", controllers.getLeafColor);
+router.get("/edible_leaf", controllers.getEdibleLeaf)
 router.get("/drought_tolerant", controllers.getDroughtTolerant);
 router.get("/salt_tolerant", controllers.getSaltTolerant);
 router.get("/thorny", controllers.getThorny);
@@ -16,6 +19,5 @@ router.get("/:id", controllers.getPlant);
 router.post("/", controllers.createPlant);
 router.put("/:id", controllers.updatePlant);
 router.delete("/:id", controllers.deletePlant);
-
 
 export default router;

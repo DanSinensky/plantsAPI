@@ -90,6 +90,24 @@ export const getIndoor = async (req, res) => {
   res.json(indoor)
 };
 
+export const getLeaf = async (req, res) => {
+  let leaf = await Plant.find({ "leaf": true })
+
+  res.json(leaf)
+};
+
+export const getLeafColor = async (req, res) => {
+  let leafColor = Plant.find({ leaf_color: req.params.leaf_color })
+
+  res.json(leafColor)
+};
+
+export const getEdibleLeaf = async (req, res) => {
+  let edibleLeaf = await Plant.find({ "edible_leaf": true })
+
+  res.json(edibleLeaf)
+};
+
 export const getNeedsWatering = async (req, res) => {
   let needsWatering = await Plant.find({ watering: req.params.watering.charAt(0).toUpperCase() + req.params.watering.slice(1)});
 
@@ -97,7 +115,7 @@ export const getNeedsWatering = async (req, res) => {
 };
 
 export const getOrigin = async (req, res) => {
-  let origin = await Plant.find({ origin: req.params.origin.charAt(0).toUpperCase() + req.params.origin.slice(1)});
+  let origin = await Plant.find({ origin: req.params.origin.charAt(0).toUpperCase() + req.params.origin.slice(1) });
 
   res.json(origin);
-}
+};
