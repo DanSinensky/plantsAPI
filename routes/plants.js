@@ -15,6 +15,7 @@ router.get("/thorny/:thorny", controllers.getThorny);
 router.get("/invasive/:invasive", controllers.getInvasive);
 router.get("/tropical/:tropical", controllers.getTropical);
 router.get("/indoor/:indoor", controllers.getIndoor);
+router.get("/query", controllers.getQuery);
 router.get("/:id", controllers.getPlant);
 router.post("/", controllers.createPlant);
 router.put("/:id", controllers.updatePlant);
