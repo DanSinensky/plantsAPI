@@ -235,7 +235,7 @@ export const getQuery = async (req, res) => {
       y[z[i][0]] = z[i][1]
     }
     
-    const queryResult = await Plant.find(y)
+    const queryResult = await Plant.find(z)
 
     if (queryResult) {
       return res.json(queryResult)
