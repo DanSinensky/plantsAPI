@@ -44,7 +44,7 @@ export const deletePlant = async (req, res) => {
     const deleted = await Plant.findByIdAndDelete(id);
 
     if (deleted) {
-      return res.status(200).send("Plant Deleted!");
+      return res.status(200).send("Plant deleted!");
     }
 
     throw new Error("Plant not found");

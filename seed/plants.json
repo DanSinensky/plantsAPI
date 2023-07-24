@@ -3938,5 +3938,1249 @@
     "thumbnail": "https://perenual.com/storage/species_image/30_acer_palmatum_ao_shime_no_uchi/thumbnail/Acer_palmatum_Ao_shime_no_uchi_3zz.jpg"
     },
     "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+  },
+  {
+    "common_name": "Aoyagi Japanese Maple*",
+    "scientific_name": [
+      "Acer palmatum 'Aoyagi'"
+    ],
+    "other_name": [
+      "Green Coral Japanese Maple"
+    ],
+    "family": null,
+    "origin": [
+      "Japan"
+    ],
+    "type": "tree",
+    "dimension": "Height:  10 feet",
+    "dimensions": {
+      "type": "Height",
+      "min_value": 10,
+      "max_value": 10,
+      "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+      
+    ],
+    "propagation": [
+      "Grafting Propagation",
+      "Layering Propagation",
+      "Cutting",
+      "Air Layering Propagation",
+      "Root Division"
+    ],
+    "hardiness": {
+      "min": "7",
+      "max": "7"
+    },
+    "hardiness_location": {
+      "full_url": "https://perenual.com/api/hardiness-map?species_id=31&size=og&key=sk-dVrJ64b9339eba7161622",
+      "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=31&size=og&key=sk-dVrJ64b9339eba7161622'></iframe>"
+    },
+    "watering": "Frequent",
+    "depth_water_requirement": [
+      
+    ],
+    "volume_water_requirement": [
+      
+    ],
+    "watering_period": null,
+    "watering_general_benchmark": {
+      "value": null,
+      "unit": "days"
+    },
+    "plant_anatomy": [
+      
+    ],
+    "sunlight": [
+      "full sun",
+      "part shade"
+    ],
+    "pruning_month": [
+      "March",
+      "April",
+      "May",
+      "February",
+      "March",
+      "April",
+      "March",
+      "April"
+    ],
+    "pruning_count": [
+      
+    ],
+    "seeds": 0,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=31&key=sk-dVrJ64b9339eba7161622",
+    "soil": [
+      
+    ],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Moderate",
+    "pest_susceptibility": [
+      
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+      
+    ],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+      "green",
+      "red",
+      "yellow",
+      "orange"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Aoyagi Japanese Maple is a stunning sight to behold. It is a beautiful, compact deciduous shrub with highly textured, silver-green to yellow-green foliage that transforms to shades of maroon-red in autumn. Springtime brings clusters of small, rosy-red flowers that provide sweet nectar for butterflies and other pollinators. Aoyagi Japanese Maples make nice additions to rock gardens, small spaces, naturalized areas and even as specimen plants on larger properties. They grow best in part shade to full sun with well-drained, slightly acidic soil and average water. Highly ornamental, easy to care for and disease-resistant, the Aoyagi Japanese Maple is an amazing and rewarding choice for any landscape.",
+    "default_image": null,
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+  },
+  {
+    "common_name": "Arakawa Cork Bark Japanese Maple",
+    "scientific_name": [
+      "Acer palmatum 'Arakawa'"
+    ],
+    "other_name": [
+      "Rough-Bark Japanese Maple",
+      "Arakawa Ukon"
+    ],
+    "family": "Sapindaceae",
+    "origin": [
+      "Japan"
+    ],
+    "type": "tree",
+    "dimension": "Height:  15 feet",
+    "dimensions": {
+      "type": "Height",
+      "min_value": 15,
+      "max_value": 15,
+      "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+      
+    ],
+    "propagation": [
+      "Grafting Propagation",
+      "Cutting",
+      "Layering Propagation",
+      "Air Layering Propagation",
+      "Root Division"
+    ],
+    "hardiness": {
+      "min": "7",
+      "max": "7"
+    },
+    "hardiness_location": {
+      "full_url": "https://perenual.com/api/hardiness-map?species_id=32&size=og&key=sk-dVrJ64b9339eba7161622",
+      "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=32&size=og&key=sk-dVrJ64b9339eba7161622'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [
+      
+    ],
+    "volume_water_requirement": [
+      
+    ],
+    "watering_period": null,
+    "watering_general_benchmark": {
+      "value": "3-4",
+      "unit": "days"
+    },
+    "plant_anatomy": [
+      
+    ],
+    "sunlight": [
+      "Full sun",
+      "part shade"
+    ],
+    "pruning_month": [
+      "May"
+    ],
+    "pruning_count": [
+      
+    ],
+    "seeds": 1,
+    "maintenance": "Low",
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=32&key=sk-dVrJ64b9339eba7161622",
+    "soil": [
+      
+    ],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": null,
+    "pest_susceptibility": [
+      
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": true,
+    "flowering_season": "Spring",
+    "flower_color": "Reddish-purple",
+    "cones": false,
+    "fruits": true,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+      "green",
+      "red",
+      "yellow",
+      "purple",
+      "orange"
+    ],
+    "harvest_season": "Fall",
+    "leaf": true,
+    "leaf_color": [
+      "green",
+      "red",
+      "yellow",
+      "purple",
+      "orange"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Arakawa Cork Bark Japanese Maple (Acer palmatum 'Arakawa') is an amazing tree to include in any garden. With year-round interest, it has beautiful foliage and an unusual bark. The delicate, five-lobed leaves are bright green in summer, changing to orange and yellow in autumn. Its bark is striking with thick, corky ridges, giving an element of rugged beauty. Plus, it's great for small spaces since it only grows to 5m high and only takes around 10 years to reach its full size. Add it to a sunny but sheltered spot for the best performance.",
+    "default_image": null,
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+  },
+  {
+    "common_name": "Asahi Zuru Japanese Maple",
+    "scientific_name": [
+      "Acer palmatum 'Asahi Zuru'"
+    ],
+    "other_name": [
+      "Rising Sun",
+      "Dawn Swan"
+    ],
+    "family": null,
+    "origin": [
+      "Japan"
+    ],
+    "type": "tree",
+    "dimension": "Height:  12 feet",
+    "dimensions": {
+      "type": "Height",
+      "min_value": 12,
+      "max_value": 12,
+      "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+      
+    ],
+    "propagation": [
+      "Grafting Propagation",
+      "Layering Propagation",
+      "Cutting",
+      "Air Layering Propagation",
+      "Root Division"
+    ],
+    "hardiness": {
+      "min": "7",
+      "max": "7"
+    },
+    "hardiness_location": {
+      "full_url": "https://perenual.com/api/hardiness-map?species_id=33&size=og&key=sk-dVrJ64b9339eba7161622",
+      "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=33&size=og&key=sk-dVrJ64b9339eba7161622'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+      "unit": "inches",
+      "value": "2"
+    },
+    "volume_water_requirement": [
+      
+    ],
+    "watering_period": null,
+    "watering_general_benchmark": {
+      "value": null,
+      "unit": "days"
+    },
+    "plant_anatomy": [
+      
+    ],
+    "sunlight": [
+      "full sun",
+      "part shade"
+    ],
+    "pruning_month": [
+      "February",
+      "March",
+      "April"
+    ],
+    "pruning_count": [
+      
+    ],
+    "seeds": 0,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=33&key=sk-dVrJ64b9339eba7161622",
+    "soil": [
+      
+    ],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+      
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+      
+    ],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+      "green",
+      "red",
+      "yellow",
+      "orange"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Asahi Zuru Japanese maple is an absolutely amazing specimen. With its multiple shades of green and yellow, it is absolutely stunning. Its deeply cut leaves and cascading foliage provide unique structure within the landscape. In fall, the foliage further stands out with its brilliant yellow, crimson, and orange colors. And during the winter months, stems are relieved of their foliage to reveal a pleasing, brown, exfoliating bark. Asahi Zuru Japanese maple is highly adaptable to many soil types, can be grown in sun or shade, and rarely requires pruning. All of this combined makes it a perfect choice for the home garden.",
+    "default_image": null,
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+  },
+  {
+    "common_name": "Ribbon-leaf Japanese Maple*",
+    "scientific_name": [
+      "Acer palmatum 'Atrolineare'"
+    ],
+    "other_name": [
+      "Red Strap-Leaf Japanese Maple"
+    ],
+    "family": null,
+    "origin": [
+      "Japan"
+    ],
+    "type": "tree",
+    "dimension": "Height:  10 feet",
+    "dimensions": {
+      "type": "Height",
+      "min_value": 10,
+      "max_value": 10,
+      "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+      
+    ],
+    "propagation": [
+      "Grafting Propagation",
+      "Layering Propagation",
+      "Cutting",
+      "Air Layering Propagation",
+      "Root Division"
+    ],
+    "hardiness": {
+      "min": "7",
+      "max": "7"
+    },
+    "hardiness_location": {
+      "full_url": "https://perenual.com/api/hardiness-map?species_id=34&size=og&key=sk-dVrJ64b9339eba7161622",
+      "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=34&size=og&key=sk-dVrJ64b9339eba7161622'></iframe>"
+    },
+    "watering": "Minimum",
+    "depth_water_requirement": [
+      
+    ],
+    "volume_water_requirement": [
+      
+    ],
+    "watering_period": null,
+    "watering_general_benchmark": {
+      "value": null,
+      "unit": "days"
+    },
+    "plant_anatomy": [
+      
+    ],
+    "sunlight": [
+      "full sun",
+      "part shade"
+    ],
+    "pruning_month": [
+      "March",
+      "April",
+      "May"
+    ],
+    "pruning_count": [
+      
+    ],
+    "seeds": 0,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=34&key=sk-dVrJ64b9339eba7161622",
+    "soil": [
+      
+    ],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "High",
+    "pest_susceptibility": [
+      
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+      
+    ],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+      "green",
+      "red",
+      "yellow",
+      "purple",
+      "orange"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Ribbon-leaf Japanese Maple (Acer palmatum 'Atrolineare') is a stunningly beautiful specimen of maple tree. It features delicate, ribboned-shaped leaves that create a cascading, lacy effect. The leaves emerge bright-green in the spring and then deepen to a majestic dark purple for the summer months. It is quite tolerant of different conditions and makes an excellent choice for small gardens and as a potted plant. Additionally, its slow growth makes it easy to maintain and it shows off its stunning range of colors throughout the season. Perfect for adding drama to the garden, Ribbon-leaf Japanese Maple is a must-have for the avid gardener!",
+    "default_image": {
+      "license": 45,
+      "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+      "original_url": "https://perenual.com/storage/species_image/34_acer_palmatum_atrolineare/og/2560px-Acer_Palmatum_27Red_Pygmy27.jpg",
+      "regular_url": "https://perenual.com/storage/species_image/34_acer_palmatum_atrolineare/regular/2560px-Acer_Palmatum_27Red_Pygmy27.jpg",
+      "medium_url": "https://perenual.com/storage/species_image/34_acer_palmatum_atrolineare/medium/2560px-Acer_Palmatum_27Red_Pygmy27.jpg",
+      "small_url": "https://perenual.com/storage/species_image/34_acer_palmatum_atrolineare/small/2560px-Acer_Palmatum_27Red_Pygmy27.jpg",
+      "thumbnail": "https://perenual.com/storage/species_image/34_acer_palmatum_atrolineare/thumbnail/2560px-Acer_Palmatum_27Red_Pygmy27.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+  },
+  {
+    "common_name": "Purple-Leaf Japanese Maple",
+    "scientific_name": [
+      "Acer palmatum 'Atropurpureum'"
+    ],
+    "other_name": [
+      
+    ],
+    "family": null,
+    "origin": [
+      "Japan"
+    ],
+    "type": "tree",
+    "dimension": "Height:  20 feet",
+    "dimensions": {
+      "type": "Height",
+      "min_value": 20,
+      "max_value": 20,
+      "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+      
+    ],
+    "propagation": [
+      "Grafting Propagation",
+      "Cutting",
+      "Layering Propagation",
+      "Air Layering Propagation",
+      "Root Division"
+    ],
+    "hardiness": {
+      "min": "6",
+      "max": "6"
+    },
+    "hardiness_location": {
+      "full_url": "https://perenual.com/api/hardiness-map?species_id=35&size=og&key=sk-dVrJ64b9339eba7161622",
+      "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=35&size=og&key=sk-dVrJ64b9339eba7161622'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+      "unit": "feet",
+      "value": "4"
+    },
+    "volume_water_requirement": [
+      
+    ],
+    "watering_period": null,
+    "watering_general_benchmark": {
+      "value": "5-7",
+      "unit": "days"
+    },
+    "plant_anatomy": [
+      {
+        "part": "leaves",
+        "color": [
+          "red-translucent"
+        ]
+      },
+      {
+        "part": "veins",
+        "color": [
+          "red"
+        ]
+      },
+      {
+        "part": "stem",
+        "color": [
+          "light-brown"
+        ]
+      }
+    ],
+    "sunlight": [
+      "full sun",
+      "part shade"
+    ],
+    "pruning_month": [
+      "February",
+      "March",
+      "April"
+    ],
+    "pruning_count": [
+      
+    ],
+    "seeds": 0,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=35&key=sk-dVrJ64b9339eba7161622",
+    "soil": [
+      
+    ],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Moderate",
+    "pest_susceptibility": [
+      
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+      
+    ],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+      "red",
+      "purple"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Purple-Leaf Japanese Maple is one of the most popular small trees you can own in your garden. With its bold and beautiful foliage, it can add to any garden’s style. During spring and early summer its leaves are a vibrant shade of red and turn to a purple hue when cooler temperatures arrive. This tree also has plenty of other features that make it an amazing choice. Its upright form is especially nice if you’re looking for a small tree that can cover up an ugly fence. Plus, it’s disease resistant and requires minimal maintenance, which is a bonus. It’s no wonder why this Maple species is so popular!",
+    "default_image": {
+      "license": 4,
+      "license_name": "Attribution License",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "original_url": "https://perenual.com/storage/species_image/35_acer_palmatum_atropurpureum/og/5656874577_617188e307_b.jpg",
+      "regular_url": "https://perenual.com/storage/species_image/35_acer_palmatum_atropurpureum/regular/5656874577_617188e307_b.jpg",
+      "medium_url": "https://perenual.com/storage/species_image/35_acer_palmatum_atropurpureum/medium/5656874577_617188e307_b.jpg",
+      "small_url": "https://perenual.com/storage/species_image/35_acer_palmatum_atropurpureum/small/5656874577_617188e307_b.jpg",
+      "thumbnail": "https://perenual.com/storage/species_image/35_acer_palmatum_atropurpureum/thumbnail/5656874577_617188e307_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+  },
+  {
+    "common_name": "Aureum Japanese Maple*",
+    "scientific_name": [
+      "Acer palmatum 'Aureum'"
+    ],
+    "other_name": [
+      
+    ],
+    "family": null,
+    "origin": [
+      "Japan"
+    ],
+    "type": "tree",
+    "dimension": "Height:  14 feet",
+    "dimensions": {
+      "type": "Height",
+      "min_value": 14,
+      "max_value": 14,
+      "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+      
+    ],
+    "propagation": [
+      "Grafting Propagation",
+      "Layering Propagation",
+      "Cutting",
+      "Air Layering Propagation",
+      "Root Division"
+    ],
+    "hardiness": {
+      "min": "6",
+      "max": "6"
+    },
+    "hardiness_location": {
+      "full_url": "https://perenual.com/api/hardiness-map?species_id=36&size=og&key=sk-dVrJ64b9339eba7161622",
+      "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=36&size=og&key=sk-dVrJ64b9339eba7161622'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [
+      
+    ],
+    "volume_water_requirement": [
+      
+    ],
+    "watering_period": null,
+    "watering_general_benchmark": {
+      "value": null,
+      "unit": "days"
+    },
+    "plant_anatomy": [
+      
+    ],
+    "sunlight": [
+      "part shade",
+      "part sun/part shade"
+    ],
+    "pruning_month": [
+      "February",
+      "March",
+      "April",
+      "March",
+      "April",
+      "May",
+      "August",
+      "June",
+      "July",
+      "August",
+      "May"
+    ],
+    "pruning_count": [
+      
+    ],
+    "seeds": 0,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=36&key=sk-dVrJ64b9339eba7161622",
+    "soil": [
+      
+    ],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+      
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+      
+    ],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+      "gold",
+      "green",
+      "yellow"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Aureum Japanese Maple (Acer palmatum 'Aureum') is amazing for its stunning color and shape. The leaves are a beautiful yellow-green color with spectacular red tinges to them in the Spring and Fall, while they are a deeper green in the summertime. Uniquely shaped with its 5-7 toothed lobes and slim, graceful serration, it is also a slow growing dwarf maple tree, with a growth rate of 9-15 inches per year. Additionally it is quite tolerant to some shade, making it ideal for semi-shaded locations in the garden. Add the beautiful fall colors of orange and yellow to the mix, and you have an unbeatable statement tree that glows against the landscape.",
+    "default_image": {
+      "license": 45,
+      "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+      "original_url": "https://perenual.com/storage/species_image/36_acer_palmatum_aureum/og/2560px-Acer_shirasawanum_22aureum22.jpg",
+      "regular_url": "https://perenual.com/storage/species_image/36_acer_palmatum_aureum/regular/2560px-Acer_shirasawanum_22aureum22.jpg",
+      "medium_url": "https://perenual.com/storage/species_image/36_acer_palmatum_aureum/medium/2560px-Acer_shirasawanum_22aureum22.jpg",
+      "small_url": "https://perenual.com/storage/species_image/36_acer_palmatum_aureum/small/2560px-Acer_shirasawanum_22aureum22.jpg",
+      "thumbnail": "https://perenual.com/storage/species_image/36_acer_palmatum_aureum/thumbnail/2560px-Acer_shirasawanum_22aureum22.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+  },
+  {
+    "common_name": "Autumn Fire Japanese Maple",
+    "scientific_name": [
+      "Acer palmatum 'Autumn Fire'"
+    ],
+    "other_name": [
+      "Herbstfeuer"
+    ],
+    "family": null,
+    "origin": [
+      "Japan"
+    ],
+    "type": "tree",
+    "dimension": "Height:  15 feet",
+    "dimensions": {
+      "type": "Height",
+      "min_value": 15,
+      "max_value": 15,
+      "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+      
+    ],
+    "propagation": [
+      "Grafting Propagation",
+      "Cutting",
+      "Layering Propagation",
+      "Air Layering Propagation",
+      "Root Division"
+    ],
+    "hardiness": {
+      "min": "7",
+      "max": "7"
+    },
+    "hardiness_location": {
+      "full_url": "https://perenual.com/api/hardiness-map?species_id=37&size=og&key=sk-dVrJ64b9339eba7161622",
+      "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=37&size=og&key=sk-dVrJ64b9339eba7161622'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+      "unit": "inches",
+      "value": "2"
+    },
+    "volume_water_requirement": [
+      
+    ],
+    "watering_period": null,
+    "watering_general_benchmark": {
+      "value": "7-10",
+      "unit": "days"
+    },
+    "plant_anatomy": [
+      
+    ],
+    "sunlight": [
+      "full sun",
+      "part shade"
+    ],
+    "pruning_month": [
+      "September",
+      "October",
+      "November",
+      "February",
+      "February",
+      "March"
+    ],
+    "pruning_count": {
+      "amount": 1,
+      "interval": "yearly"
+    },
+    "seeds": 0,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=37&key=sk-dVrJ64b9339eba7161622",
+    "soil": [
+      
+    ],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+      
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+      
+    ],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+      "red",
+      "yellow",
+      "orange"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Autumn Fire Japanese Maple is an amazing plant species due to its striking beauty in fall. Its leaves begin to turn bright red during autumn, providing a vibrant and colorful contrast. The foliage is delicate with five pointed lobes and its growth rate is slower than other maple varieties. The Autumn Fire Japanese Maple is also low-maintenance, a great choice for small areas, and can tolerate both light and partial shade. Its unique appearance is perfect for any garden or landscape and will be a highlight for many years to come.",
+    "default_image": {
+      "license": 45,
+      "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+      "original_url": "https://perenual.com/storage/species_image/37_acer_palmatum_autumn_fire/og/2560px-Acer_palmatum_fall_foliage_01.jpg",
+      "regular_url": "https://perenual.com/storage/species_image/37_acer_palmatum_autumn_fire/regular/2560px-Acer_palmatum_fall_foliage_01.jpg",
+      "medium_url": "https://perenual.com/storage/species_image/37_acer_palmatum_autumn_fire/medium/2560px-Acer_palmatum_fall_foliage_01.jpg",
+      "small_url": "https://perenual.com/storage/species_image/37_acer_palmatum_autumn_fire/small/2560px-Acer_palmatum_fall_foliage_01.jpg",
+      "thumbnail": "https://perenual.com/storage/species_image/37_acer_palmatum_autumn_fire/thumbnail/2560px-Acer_palmatum_fall_foliage_01.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+  },
+  {
+    "common_name": "Azuma Murasaki Japanese Maple",
+    "scientific_name": [
+      "Acer palmatum 'Azuma Murasaki'"
+    ],
+    "other_name": [
+      
+    ],
+    "family": null,
+    "origin": [
+      "Japan"
+    ],
+    "type": "tree",
+    "dimension": "Height:  15 feet",
+    "dimensions": {
+      "type": "Height",
+      "min_value": 15,
+      "max_value": 15,
+      "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+      
+    ],
+    "propagation": [
+      "Grafting Propagation",
+      "Layering Propagation",
+      "Cutting",
+      "Air Layering Propagation",
+      "Root Division"
+    ],
+    "hardiness": {
+      "min": "6",
+      "max": "6"
+    },
+    "hardiness_location": {
+      "full_url": "https://perenual.com/api/hardiness-map?species_id=38&size=og&key=sk-dVrJ64b9339eba7161622",
+      "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=38&size=og&key=sk-dVrJ64b9339eba7161622'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": {
+      "unit": "inches",
+      "value": "10"
+    },
+    "volume_water_requirement": [
+      
+    ],
+    "watering_period": null,
+    "watering_general_benchmark": {
+      "value": "7-10",
+      "unit": "days"
+    },
+    "plant_anatomy": [
+      
+    ],
+    "sunlight": [
+      "full sun",
+      "part shade"
+    ],
+    "pruning_month": [
+      "February",
+      "March",
+      "April",
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "pruning_count": [
+      
+    ],
+    "seeds": 0,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=38&key=sk-dVrJ64b9339eba7161622",
+    "soil": [
+      
+    ],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+      
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+      
+    ],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+      "red",
+      "purple"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Azuma Murasaki Japanese Maple is an amazing species due to its exquisite foliage. In spring the foliage is a deep purple that transitions to the bright green of summer. In autumn, the leaves turn from yellow to red to orange, creating a truly stunning display of color. The delicate, lacy leaves are stunning in any landscape and can be enjoyed for their beauty for many months out of the year. As an added benefit, this hardy plant is resistant to disease and pests, making it an ideal species for all kinds of spaces.",
+    "default_image": null,
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+  },
+  {
+    "common_name": "Beni Kawa Coral Bark Japanese Maple*",
+    "scientific_name": [
+      "Acer palmatum 'Beni Kawa'"
+    ],
+    "other_name": [
+      
+    ],
+    "family": null,
+    "origin": [
+      "Japan"
+    ],
+    "type": "tree",
+    "dimension": "Height:  15 feet",
+    "dimensions": {
+      "type": "Height",
+      "min_value": 15,
+      "max_value": 15,
+      "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+      
+    ],
+    "propagation": [
+      "Grafting Propagation",
+      "Layering Propagation",
+      "Cutting",
+      "Air Layering Propagation",
+      "Root Division"
+    ],
+    "hardiness": {
+      "min": "6",
+      "max": "6"
+    },
+    "hardiness_location": {
+      "full_url": "https://perenual.com/api/hardiness-map?species_id=39&size=og&key=sk-dVrJ64b9339eba7161622",
+      "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=39&size=og&key=sk-dVrJ64b9339eba7161622'></iframe>"
+    },
+    "watering": "Frequent",
+    "depth_water_requirement": {
+      "unit": "inches",
+      "value": "2"
+    },
+    "volume_water_requirement": [
+      
+    ],
+    "watering_period": null,
+    "watering_general_benchmark": {
+      "value": null,
+      "unit": "days"
+    },
+    "plant_anatomy": [
+      {
+        "part": "leaves",
+        "color": [
+          "green"
+        ]
+      },
+      {
+        "part": "stems",
+        "color": [
+          "red"
+        ]
+      },
+      {
+        "part": "stem",
+        "color": [
+          "brown-red"
+        ]
+      },
+      {
+        "part": "leaf",
+        "color": [
+          "green"
+        ]
+      }
+    ],
+    "sunlight": [
+      "full sun",
+      "part shade"
+    ],
+    "pruning_month": [
+      "March",
+      "April"
+    ],
+    "pruning_count": [
+      
+    ],
+    "seeds": 0,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=39&key=sk-dVrJ64b9339eba7161622",
+    "soil": [
+      
+    ],
+    "growth_rate": "Moderate",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": null,
+    "pest_susceptibility": [
+      
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+      
+    ],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+      "green",
+      "red",
+      "yellow",
+      "orange"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "The Beni Kawa Coral Bark Japanese Maple is a captivating sight! This small tree is admired for its stunning coral-red bark and vibrant yellow-green leaves. It's the perfect specimen to adorn any garden, big or small, as it can reach a maximum size of up to 15 feet tall, making it a beautiful small tree with large showy foliage. It is known for its round, elegant shape and its exceptional color range, adding a splash of vivid color to a garden setting. It's also tolerant to most soil conditions and a variety of climates, and can handle full, partial, or even light shade. It's truly a gardener's delight!",
+    "default_image": {
+      "license": 4,
+      "license_name": "Attribution License",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "original_url": "https://perenual.com/storage/species_image/39_acer_palmatum_beni_kawa/og/5695802528_935d72efaa_b.jpg",
+      "regular_url": "https://perenual.com/storage/species_image/39_acer_palmatum_beni_kawa/regular/5695802528_935d72efaa_b.jpg",
+      "medium_url": "https://perenual.com/storage/species_image/39_acer_palmatum_beni_kawa/medium/5695802528_935d72efaa_b.jpg",
+      "small_url": "https://perenual.com/storage/species_image/39_acer_palmatum_beni_kawa/small/5695802528_935d72efaa_b.jpg",
+      "thumbnail": "https://perenual.com/storage/species_image/39_acer_palmatum_beni_kawa/thumbnail/5695802528_935d72efaa_b.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+  },
+  {
+    "common_name": "Beni Otake Japanese Maple",
+    "scientific_name": [
+      "Acer palmatum 'Beni Otake'"
+    ],
+    "other_name": [
+      "Big Red Bamboo"
+    ],
+    "family": null,
+    "origin": [
+      "Japan"
+    ],
+    "type": "tree",
+    "dimension": "Height:  10 feet",
+    "dimensions": {
+      "type": "Height",
+      "min_value": 10,
+      "max_value": 10,
+      "unit": "feet"
+    },
+    "cycle": "Perennial",
+    "attracts": [
+      
+    ],
+    "propagation": [
+      "Grafting Propagation",
+      "Layering Propagation",
+      "Cutting",
+      "Air Layering Propagation",
+      "Root Division"
+    ],
+    "hardiness": {
+      "min": "7",
+      "max": "7"
+    },
+    "hardiness_location": {
+      "full_url": "https://perenual.com/api/hardiness-map?species_id=40&size=og&key=sk-dVrJ64b9339eba7161622",
+      "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=40&size=og&key=sk-dVrJ64b9339eba7161622'></iframe>"
+    },
+    "watering": "Average",
+    "depth_water_requirement": [
+      
+    ],
+    "volume_water_requirement": [
+      
+    ],
+    "watering_period": null,
+    "watering_general_benchmark": {
+      "value": null,
+      "unit": "days"
+    },
+    "plant_anatomy": [
+      
+    ],
+    "sunlight": [
+      "full sun",
+      "part shade"
+    ],
+    "pruning_month": [
+      "February",
+      "March",
+      "April",
+      "May"
+    ],
+    "pruning_count": [
+      
+    ],
+    "seeds": 0,
+    "maintenance": null,
+    "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=40&key=sk-dVrJ64b9339eba7161622",
+    "soil": [
+      
+    ],
+    "growth_rate": "Low",
+    "drought_tolerant": false,
+    "salt_tolerant": false,
+    "thorny": false,
+    "invasive": false,
+    "tropical": false,
+    "indoor": false,
+    "care_level": "Medium",
+    "pest_susceptibility": [
+      
+    ],
+    "pest_susceptibility_api": "Coming Soon",
+    "flowers": false,
+    "flowering_season": null,
+    "flower_color": "",
+    "cones": false,
+    "fruits": false,
+    "edible_fruit": false,
+    "edible_fruit_taste_profile": "Coming Soon",
+    "fruit_nutritional_value": "Coming Soon",
+    "fruit_color": [
+      
+    ],
+    "harvest_season": null,
+    "leaf": true,
+    "leaf_color": [
+      "green",
+      "red",
+      "yellow",
+      "purple",
+      "orange"
+    ],
+    "edible_leaf": false,
+    "cuisine": false,
+    "medicinal": false,
+    "poisonous_to_humans": 0,
+    "poisonous_to_pets": 0,
+    "description": "Beni Otake Japanese Maple is an outstanding small tree known for its vibrant displays of color. Its enchanting red-orange foliage turns to a brilliant scarlet in autumn. Its habit is multi-stemmed and habit is extremely vase-shaped, mature width of 10-15 feet. This deciduous tree is well-drained, drought tolerant, and will thrive in a variety of soil conditions. Its low maintenance and its wide branching brings a unique aesthetic to any landscape. Beni Otake Japanese Maple is a rare and stunning foliage, perfect as an ornamental tree, in sheltered rock gardens, or landscapes.",
+    "default_image": {
+      "license": 45,
+      "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+      "original_url": "https://perenual.com/storage/species_image/40_acer_palmatum_beni_otake/og/Acer_palmatum_27Oshio_beni27_-_JPG2.jpg",
+      "regular_url": "https://perenual.com/storage/species_image/40_acer_palmatum_beni_otake/regular/Acer_palmatum_27Oshio_beni27_-_JPG2.jpg",
+      "medium_url": "https://perenual.com/storage/species_image/40_acer_palmatum_beni_otake/medium/Acer_palmatum_27Oshio_beni27_-_JPG2.jpg",
+      "small_url": "https://perenual.com/storage/species_image/40_acer_palmatum_beni_otake/small/Acer_palmatum_27Oshio_beni27_-_JPG2.jpg",
+      "thumbnail": "https://perenual.com/storage/species_image/40_acer_palmatum_beni_otake/thumbnail/Acer_palmatum_27Oshio_beni27_-_JPG2.jpg"
+    },
+    "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
   }
 ]
