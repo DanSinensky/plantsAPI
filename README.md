@@ -2,6 +2,10 @@
 
 The PlantAPI is an API database of plants with complete CRUD functionality implemented with RESTful routes of various plants and details about them as JSON data.
 
+## Entry
+
+![An image of an entry in the Plants API](https://raw.githubusercontent.com/DanSinensky/plantsAPI/main/PlantsAPIEntry.png "Plants API entry")
+
 ## Routes
 
 ### Read Routes

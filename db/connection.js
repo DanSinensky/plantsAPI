@@ -1,9 +1,11 @@
 import mongoose from "mongoose";
 import chalk from "chalk";
 
+const connectionString = process.env.DB_URL || 'mongodb://localhost/plantAPI'
+
 mongoose.set("returnOriginal", false);
 
-mongoose.connect("mongodb://127.0.0.1:27017/plantAPI").catch((err) => {
+mongoose.connect(connectionString, { useNewUrlParser: true }).catch((err) => {
   console.log(`Error connection to MongoDB: ${err.message}`);
 });
 
