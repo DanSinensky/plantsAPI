@@ -37,7 +37,6 @@
     "unit": "feet"
     },
     "cycle": "Perennial",
-    "attracts": [],
     "propagation": [
     "Cutting",
     "Grafting Propagation",
@@ -131,7 +130,6 @@
     "unit": "feet"
     },
     "cycle": "Perennial",
-    "attracts": [],
     "propagation": [
     "Cutting",
     "Grafting Propagation",
@@ -244,7 +242,6 @@
     "unit": "feet"
     },
     "cycle": "Perennial",
-    "attracts": [],
     "propagation": [
     "Seed Propagation",
     "Hardwood Cuttings"
@@ -377,7 +374,6 @@
     "unit": "feet"
     },
     "cycle": "Perennial",
-    "attracts": [],
     "propagation": [
     "Cutting",
     "Grafting Propagation",
@@ -491,7 +487,6 @@
     "unit": "feet"
     },
     "cycle": "Perennial",
-    "attracts": [],
     "propagation": [
     "Seed Propagation",
     "Seed Propagation",
@@ -611,7 +606,6 @@
     "unit": "feet"
     },
     "cycle": "Perennial",
-    "attracts": [],
     "propagation": [
     "Cutting",
     "Grafting Propagation",
@@ -759,7 +753,6 @@
     "unit": "feet"
     },
     "cycle": "Perennial",
-    "attracts": [],
     "propagation": [
     "Seed Propagation",
     "Cutting",
@@ -911,7 +904,6 @@
     "unit": "feet"
     },
     "cycle": "Perennial",
-    "attracts": [],
     "propagation": [
     "Cutting",
     "Grafting Propagation",
@@ -1051,10 +1043,6 @@
     "unit": "feet"
     },
     "cycle": "Perennial",
-    "attracts": [
-    "Squirrels",
-    " Birds"
-    ],
     "propagation": [
     "Seed Propagation",
     "Cutting",
@@ -1173,7 +1161,6 @@
     "unit": "feet"
     },
     "cycle": "Perennial",
-    "attracts": [],
     "propagation": [
     "Air Layering Propagation",
     "Grafting Propagation",
@@ -1286,7 +1273,6 @@
     "unit": "feet"
     },
     "cycle": "Perennial",
-    "attracts": [],
     "propagation": [
     "Grafting Propagation",
     "Layering Propagation",
@@ -1413,7 +1399,6 @@
     "unit": "feet"
     },
     "cycle": "Perennial",
-    "attracts": [],
     "propagation": [
     "Cutting",
     "Grafting Propagation",
@@ -1550,7 +1535,6 @@
     "unit": "feet"
     },
     "cycle": "Perennial",
-    "attracts": [],
     "propagation": [
     "Cutting",
     "Grafting Propagation",
@@ -1668,7 +1652,6 @@
     "unit": "feet"
     },
     "cycle": "Perennial",
-    "attracts": [],
     "propagation": [
     "Cutting",
     "Grafting Propagation",
@@ -1781,7 +1764,6 @@
     "unit": "feet"
     },
     "cycle": "Perennial",
-    "attracts": [],
     "propagation": [
     "Cutting",
     "Grafting Propagation",
@@ -1896,7 +1878,6 @@
     "unit": "feet"
     },
     "cycle": "Perennial",
-    "attracts": [],
     "propagation": [
     "Seed Propagation",
     "Greenwood Cuttings",
@@ -2022,7 +2003,6 @@
     "unit": "feet"
     },
     "cycle": "Perennial",
-    "attracts": [],
     "propagation": [
     "Air Layering Propagation",
     "Grafting Propagation",
@@ -2138,7 +2118,6 @@
     "unit": "feet"
     },
     "cycle": "Perennial",
-    "attracts": [],
     "propagation": [
     "Cutting",
     "Grafting Propagation"
@@ -2271,7 +2250,6 @@
     "unit": "feet"
     },
     "cycle": "Perennial",
-    "attracts": [],
     "propagation": [
     "Grafting Propagation",
     "Cutting",
@@ -2382,7 +2360,6 @@
     "unit": "feet"
     },
     "cycle": "Perennial",
-    "attracts": [],
     "propagation": [
     "Air Layering Propagation",
     "Grafting Propagation",
@@ -2481,7 +2458,6 @@
     "unit": "feet"
     },
     "cycle": "Perennial",
-    "attracts": [],
     "propagation": [
     "Grafting Propagation",
     "Cutting",
@@ -2574,7 +2550,6 @@
     "unit": "feet"
     },
     "cycle": "Perennial",
-    "attracts": [],
     "propagation": [
     "Air Layering Propagation",
     "Grafting Propagation",
@@ -2671,10 +2646,6 @@
     "unit": "feet"
     },
     "cycle": "Perennial",
-    "attracts": [
-    "Squirrels",
-    " Bees"
-    ],
     "propagation": [
     "Seed Propagation"
     ],
@@ -2822,10 +2793,6 @@
     "unit": "feet"
     },
     "cycle": "Perennial",
-    "attracts": [
-    "Squirrels",
-    " Bees"
-    ],
     "propagation": [
     "Seed Propagation"
     ],
@@ -2951,7 +2918,6 @@
     "unit": "feet"
     },
     "cycle": "Perennial",
-    "attracts": [],
     "propagation": [
     "Air Layering Propagation",
     "Grafting Propagation",
@@ -3087,7 +3053,6 @@
     "unit": "feet"
     },
     "cycle": "Perennial",
-    "attracts": [],
     "propagation": [
     "Cutting",
     "Grafting Propagation",
@@ -3217,7 +3182,6 @@
     "unit": "feet"
     },
     "cycle": "Perennial",
-    "attracts": [],
     "propagation": [
     "Air Layering Propagation",
     "Grafting Propagation",
@@ -3331,7 +3295,6 @@
     "unit": "feet"
     },
     "cycle": "Perennial",
-    "attracts": [],
     "propagation": [
     "Grafting Propagation",
     "Cutting",
@@ -3425,7 +3388,6 @@
     "unit": "feet"
     },
     "cycle": "Perennial",
-    "attracts": [],
     "propagation": [
     "Grafting Propagation",
     "Layering Propagation",
@@ -3506,7 +3468,6 @@
     "unit": "feet"
     },
     "cycle": "Perennial",
-    "attracts": [],
     "propagation": [
     "Air Layering Propagation",
     "Grafting Propagation",
@@ -3599,9 +3560,6 @@
       "unit": "feet"
     },
     "cycle": "Perennial",
-    "attracts": [
-      
-    ],
     "propagation": [
       "Grafting Propagation",
       "Layering Propagation",
@@ -3705,9 +3663,6 @@
       "unit": "feet"
     },
     "cycle": "Perennial",
-    "attracts": [
-      
-    ],
     "propagation": [
       "Grafting Propagation",
       "Cutting",
@@ -3809,9 +3764,6 @@
       "unit": "feet"
     },
     "cycle": "Perennial",
-    "attracts": [
-      
-    ],
     "propagation": [
       "Grafting Propagation",
       "Layering Propagation",
@@ -3910,9 +3862,6 @@
       "unit": "feet"
     },
     "cycle": "Perennial",
-    "attracts": [
-      
-    ],
     "propagation": [
       "Grafting Propagation",
       "Layering Propagation",
@@ -4020,9 +3969,6 @@
       "unit": "feet"
     },
     "cycle": "Perennial",
-    "attracts": [
-      
-    ],
     "propagation": [
       "Grafting Propagation",
       "Cutting",
@@ -4145,9 +4091,6 @@
       "unit": "feet"
     },
     "cycle": "Perennial",
-    "attracts": [
-      
-    ],
     "propagation": [
       "Grafting Propagation",
       "Layering Propagation",
@@ -4261,9 +4204,6 @@
       "unit": "feet"
     },
     "cycle": "Perennial",
-    "attracts": [
-      
-    ],
     "propagation": [
       "Grafting Propagation",
       "Cutting",
@@ -4374,9 +4314,6 @@
       "unit": "feet"
     },
     "cycle": "Perennial",
-    "attracts": [
-      
-    ],
     "propagation": [
       "Grafting Propagation",
       "Layering Propagation",
@@ -4480,9 +4417,6 @@
       "unit": "feet"
     },
     "cycle": "Perennial",
-    "attracts": [
-      
-    ],
     "propagation": [
       "Grafting Propagation",
       "Layering Propagation",
@@ -4612,9 +4546,6 @@
       "unit": "feet"
     },
     "cycle": "Perennial",
-    "attracts": [
-      
-    ],
     "propagation": [
       "Grafting Propagation",
       "Layering Propagation",
