@@ -29,10 +29,6 @@ let Plant = new Schema({
 "min": { type: Number },
 "max": { type: Number }
 },
-"hardiness_location": {
-"full_url": { type: String },
-"full_iframe": { type: String }
-},
 "watering": { type: String },
 "depth_water_requirement": [],
 "volume_water_requirement": [],
@@ -80,9 +76,7 @@ let Plant = new Schema({
   { type: String }
 ],
 "pruning_count": [],
-"seeds": { type: Number },
 "maintenance": { type: String },
-"care-guides": { type: String },
 "soil": [
   { type: String }
 ],
@@ -97,15 +91,12 @@ let Plant = new Schema({
 "pest_susceptibility": [
   { type: String }
 ],
-"pest_susceptibility_api": { type: String },
 "flowers": { type: Boolean },
 "flowering_season": { type: String },
 "flower_color": { type: String },
 "cones": { type: Boolean },
 "fruits": { type: Boolean },
 "edible_fruit": { type: Boolean },
-"edible_fruit_taste_profile": { type: String },
-"fruit_nutritional_value": { type: String },
 "fruit_color": [
     { type: String }
 ],
