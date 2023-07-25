@@ -5,7 +5,7 @@ const connectionString = process.env.DB_URL || 'mongodb://localhost/plantAPI'
 
 mongoose.set("returnOriginal", false);
 
-mongoose.connect(connectionString, { useNewUrlParser: true }).catch((err) => {
+mongoose.connect(connectionString, { useNewUrlParser: true, dbName: "plants" }).catch((err) => {
   console.log(`Error connection to MongoDB: ${err.message}`);
 });
 

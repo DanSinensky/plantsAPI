@@ -3,7 +3,7 @@ import * as controllers from "../controllers/plants.js";
 
 const router = Router();
 
-// router.get("/", controllers.getQuery);
+router.get("/", controllers.getQuery);
 router.get("/", controllers.getPlants);
 router.get("/:id", controllers.getPlant);
 router.post("/", controllers.createPlant);
