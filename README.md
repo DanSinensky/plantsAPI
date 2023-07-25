@@ -56,7 +56,13 @@ Invasive|Boolean|If the plant is invasive to a region|?invasive=false
 Tropical|Boolean|If the plant grows in tropical regions|?tropical=false
 Indoor|Boolean|If the plant can be grown indoors|?indoor=false
 Care level|String|How much care the plant requires|?care_level=Medium
-
+Pest susceptibility|String|What pests the plant is susceptible to|?pest_susceptibility=Aphids
+Flowers|Boolean|If the plant grows flowers|?flowers=true
+Flowering season|String|What season the plant flowers in|?flowering_season=Spring
+Flower color|String|What color the plant's flowers are|?flower_color=Yellow
+Cones|Boolean|If the plant grows cones|?cones=false
+Fruits|Boolean|If the plant grows fruit|?fruits=true
+Fruit color|String|What color the plant's fruits are|?
 
 ![An image of an entry in the Plants API](https://raw.githubusercontent.com/DanSinensky/plantsAPI/main/PlantsAPIEntry.png "Plants API entry")
 
@@ -75,16 +81,6 @@ Response
 
 ```
 [{
-        "pest_susceptibility": [],
-        "pest_susceptibility_api": "Coming Soon",
-        "flowers": false,
-        "flowering_season": null,
-        "flower_color": "",
-        "cones": true,
-        "fruits": false,
-        "edible_fruit": false,
-        "edible_fruit_taste_profile": "Coming Soon",
-        "fruit_nutritional_value": "Coming Soon",
         "fruit_color": [],
         "harvest_season": null,
         "leaf": true,
