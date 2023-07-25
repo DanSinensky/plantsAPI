@@ -106,10 +106,7 @@ let Plant = new Schema({
   { type: String }
 ],
 "edible_leaf": { type: Boolean },
-"cuisine": { type: Boolean },
 "medicinal": { type: Boolean },
-"poisonous_to_humans": { type: Number },
-"poisonous_to_pets": { type: Number },
 "description": { type: String },
   "default_image": {
     "license": { type: Number },
